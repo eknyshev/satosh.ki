@@ -9,7 +9,35 @@
 		define("__REF", "1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg");
 		#Block-chain-wallet
 		define("__WAL", "1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV");
+		
+		$flist = "./_fausetsCsv.csv";
+
+		$fcsv = fopen($flist, "r");
+
+		while(($fdata = fgetcsv($fcsv,4096,";")) !== false){
+			list($average[],$link[],$captcha[],$reg[],$actuallink[],$reflink[],$timer[]) = $fdata;
+		}
+		fclose($fcsv);
+		
+		
+		
+		for ($i=1; $i<count($link); $i++) {
+			if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+				$fhref = $link[$i];
+			}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+				$fhref = "$link[$i]/?r=".__REF;
+			}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+				$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+			}else {
+				$fhref = $link[$i].$reflink[$i];
+			}
+	
+			if($reg[$i] == "FALSE"){
+				echo $completelink;
+			}
+		}
 		?>
+		
 	    <!-- Mobile support -->
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -163,12 +191,23 @@
 					<div class="col-xs-10">
 						<div class="well page active" style="display: block;">
 							<h1 class="header">Fausets</h1>
-							<div style="background-color: #f0f0f0;">
-									<ul>
-										<li><span class="btn btn-primary btn-raised btn-material-green">Zhmax<div class="ripple-wrapper"></div></span></li>
-										<li><a class="btn btn-primary btn-raised">Zhmax<div class="ripple-wrapper"></div></a></li>
-									</ul>
-							</div>
+							<?php
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+	
+								if($reg[$i] == "FALSE"){
+									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+							?>
 						</div>
 					</div>
 				</div>
