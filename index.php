@@ -18,24 +18,6 @@
 			list($average[],$link[],$captcha[],$reg[],$actuallink[],$reflink[],$timer[]) = $fdata;
 		}
 		fclose($fcsv);
-		
-		
-		
-		for ($i=1; $i<count($link); $i++) {
-			if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
-				$fhref = $link[$i];
-			}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
-				$fhref = "$link[$i]/?r=".__REF;
-			}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
-				$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
-			}else {
-				$fhref = $link[$i].$reflink[$i];
-			}
-	
-			if($reg[$i] == "FALSE"){
-				echo $completelink;
-			}
-		}
 		?>
 		
 	    <!-- Mobile support -->
@@ -154,7 +136,7 @@
 	      }
 		  ul{
 			list-style: none; 
-		  }
+		}
 	    </style>
 
 
@@ -192,6 +174,7 @@
 						<div class="well page active" style="display: block;">
 							<h1 class="header">Fausets</h1>
 							<?php
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>More then one hour</h2>";
 							for ($i=1; $i<count($link); $i++){
 								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
 									$fhref = $link[$i];
@@ -202,11 +185,80 @@
 								}else {
 									$fhref = $link[$i].$reflink[$i];
 								}
-	
-								if($reg[$i] == "FALSE"){
+
+								if($reg[$i] == "FALSE" && $timer[$i] > 60){
 									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
+							echo "</div>";
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>One hour</h2>";
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE" && $timer[$i] == 60){
+									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+							echo "</div>";
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>Less then one hour</h2>";
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE" && $timer[$i] < 60 && $timer[$i] >30){
+									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+							echo "</div>";
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>Less then half hour</h2>";
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE" && $timer[$i] < 30 && $timer[$i] > 0){
+									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+							echo "</div>";
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>Temporary block</h2>";
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE" && $timer[$i] == 0){
+									echo "<a class=\"btn btn-primary btn-material-red\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px; font-size: 10px; height: 90px; padding: 0; text-align: left; overflow-wrap: break-word;\" >".$link[$i]."</a>";
+								}
+							}
+							echo "</div>";
 							?>
 						</div>
 					</div>
