@@ -249,7 +249,7 @@
 								}
 
 								if($reg[$i] == "FALSE" && $timer[$i] >= 45 & $timer[$i] < 210 ){
-									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
@@ -266,7 +266,7 @@
 								}
 
 								if($reg[$i] == "FALSE" && $timer[$i] < 45 && $timer[$i] >25){
-									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
