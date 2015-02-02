@@ -31,7 +31,7 @@
 	    <link href="dist/css/ripples.min.css" rel="stylesheet">
 
 	    <!-- Dropdown.js -->
-	    <link href="//cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.css" rel="stylesheet">
+	    <link href="//cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.css" rel="stylesheet"> -->
 
 	    <!-- Page style -->
 	    <style>
@@ -158,20 +158,53 @@
 			<div class="row">
 				<nav class="col-xs-3 menu">
 					<ul>
-						<li class="withripple">Ebaty konergy</li>
-						<li class="withripple">Spamshi medveshki</li>
-						<li class="withripple">Ebaty konergy</li>
-						<li class="withripple">Spamshi medveshki</li>
-						<li class="withripple">Ebaty konergy</li>
-						<li class="withripple">Spamshi medveshki</li>
-						<li class="withripple">Ebaty konergy</li>
-						<li class="withripple">Spamshi medveshki</li>
-						<li class="withripple">Ebaty konergy</li>
+						<li class="active withripple" data-target="#">Less then half hour</li>
+						<li class="withripple">Less then hour</li>
+						<li class="withripple">One hour</li>
+						<li class="withripple">Two hours</li>
+						<li class="withripple">More then two hours</li>
+						<li style="pointer: default;"></br></li>
+						<li class="withripple"><a href="https://faucetbox.com/en/check/1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank">FausetBox Check</a></li>
+						<li class="withripple"><a href="https://www.microwallet.org/?u=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank">Microwallet Check</a></li>
+						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank">XAPO wallet check</a></li>
 					</ul>
 				</nav>
 				<div class="pages col-xs-9">
 					<div class="col-xs-10">
-						<div class="well page active" style="display: block;">
+						<?php
+						function filler($link, $reg, $reflink, $actuallink, $fhref, $timer){
+							echo "!</br>";
+							
+							#pilim linki (peredelat s switch-case)
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE"){
+									switch($timer[$i])
+									{
+										case ($timer[$i] < 30): $fdivid = "30less"
+										break;
+										case ($timer[$i] >=30 && $timer[$i] < 60): $fdivid =  "30_60";
+										break;
+										case ($timer[$i] == 60): $fdivid "60";
+										break;
+										case ($timer[$i] > 60 && $timer[$i] <= 120); $fdivid = "60more";
+										break; 
+									}
+									$fdonelink = "<a class=\"btn btn-danger\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+						}
+						?>
+						<div class="well page active">
 							<h1 class="header">Fausets</h1>
 							<?php
 							echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h3>More then one hour</h3>";
@@ -243,21 +276,7 @@
 							}
 							echo "</div>";
 							echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h2>Temporary block</h2>";
-							for ($i=1; $i<count($link); $i++){
-								/*if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
-									$fhref = $link[$i];
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
-									$fhref = "$link[$i]/?r=".__REF;
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){*/
-									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
-									/*}else {
-									$fhref = $link[$i].$reflink[$i];
-								}*/
-
-								if($reg[$i] == "FALSE" && $timer[$i] == 0){
-									echo "<a class=\"btn btn-primary btn-material-red\" href=\"$fhref\" target=_blank style=\"width: 88px; height: 44px; margin: 2px; font-size: 10px; padding: 0; text-align: left; overflow-wrap: break-word;\" >".$link[$i]."</a>";
-								}
-							}
+							filler($link, $reg, $reflink, $actuallink, $fhref, $timer);
 							echo "</div>";
 							?>
 						</div>
@@ -265,5 +284,121 @@
 				</div>
 			</div>
 		</div>
+		<!-- JS scripts -->
+	    <script>
+	      window.page = window.location.hash || "#about";
+
+	      $(document).ready(function() {
+	        if (window.page != "#about") {
+	          $(".menu").find("li[data-target=" + window.page + "]").trigger("click");
+	        }
+	      });
+
+	      $(window).on("resize", function() {
+	        $("html, body").height($(window).height());
+	        $(".main, .menu").height($(window).height() - $(".header-panel").outerHeight());
+	        $(".pages").height($(window).height());
+	      }).trigger("resize");
+
+	      $(".menu li").click(function() {
+	        // Menu
+	        if (!$(this).data("target")) return;
+	        if ($(this).is(".active")) return;
+	        $(".menu li").not($(this)).removeClass("active");
+	        $(".page").not(page).removeClass("active").hide();
+	        window.page = $(this).data("target");
+	        var page = $(window.page);
+	        window.location.hash = window.page;
+	        $(this).addClass("active");
+
+
+	        page.show();
+
+	        var totop = setInterval(function() {
+	          $(".pages").animate({scrollTop:0}, 0);
+	        }, 1);
+
+	        setTimeout(function() {
+	          page.addClass("active");
+	          setTimeout(function() {
+	            clearInterval(totop);
+	          }, 1000);
+	        }, 100);
+	      });
+
+	      function cleanSource(html) {
+	        var lines = html.split(/\n/);
+
+	        lines.shift();
+	        lines.splice(-1, 1);
+
+	        var indentSize = lines[0].length - lines[0].trim().length,
+	            re = new RegExp(" {" + indentSize + "}");
+
+	        lines = lines.map(function(line){
+	          if (line.match(re)) {
+	            line = line.substring(indentSize);
+	          }
+
+	          return line;
+	        });
+
+	        lines = lines.join("\n");
+
+	        return lines;
+	      }
+
+	      $("#opensource").click(function() {
+	        $.get(window.location.href, function(data){
+	          var html = $(data).find(window.page).html();
+	          html = cleanSource(html);
+	          $("#source-modal pre").text(html);
+	          $("#source-modal").modal();
+	        });
+	      });
+	    </script>
+
+	    <!-- Twitter Bootstrap -->
+	    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+	    <!-- Material Design for Bootstrap -->
+	    <script src="dist/js/material.min.js"></script>
+	    <script src="dist/js/ripples.min.js"></script>
+	    <script>
+	      $.material.init();
+	    </script>
+
+
+	    <!-- Sliders -->
+	    <script src="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/6.2.0/jquery.nouislider.min.js"></script>
+	    <script>
+	      $(function() {
+	        $.material.init();
+	        $(".shor").noUiSlider({
+	          start: 40,
+	          connect: "lower",
+	          range: {
+	            min: 0,
+	            max: 100
+	          }
+	        });
+
+	        $(".svert").noUiSlider({
+	          orientation: "vertical",
+	          start: 40,
+	          connect: "lower",
+	          range: {
+	            min: 0,
+	            max: 100
+	          }
+	        });
+	      });
+	    </script>
+
+	    <!-- Dropdown.js -->
+	    <script src="https://cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.js"></script>
+	    <script>
+	      $("#dropdown-menu select").dropdown();
+	    </script>
 	</body>
 </html>
