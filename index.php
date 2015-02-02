@@ -187,7 +187,7 @@
 								}
 
 								if($reg[$i] == "FALSE" && $timer[$i] > 60){
-									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
+									echo "<a class=\"btn btn-default \" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div></br>";
