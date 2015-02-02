@@ -175,34 +175,48 @@
 						function filler($link, $reg, $reflink, $actuallink, $fhref, $timer){
 							echo "!</br>";
 							
-							#pilim linki (peredelat s switch-case)
+							#pilim linki (peredelat v switch-case)
 							for ($i=1; $i<count($link); $i++){
-								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
-									$fhref = $link[$i];
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
-									$fhref = "$link[$i]/?r=".__REF;
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
-									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
-								}else {
-									$fhref = $link[$i].$reflink[$i];
-								}
-
 								if($reg[$i] == "FALSE"){
-									switch($timer[$i])
-									{
-										case ($timer[$i] < 30): $fdivid = "30less"
+									pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink);
+									$fdonelink = "<a class=\"btn btn-danger\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
+
+									switch($timer[$i]){
+										case ($timer[$i] < 30):
+										$fdivid = "30less";
 										break;
-										case ($timer[$i] >=30 && $timer[$i] < 60): $fdivid =  "30_60";
+										case ($timer[$i] >=30 && $timer[$i] < 60):
+										$fdivid =  "30_60";
 										break;
-										case ($timer[$i] == 60): $fdivid "60";
+										case ($timer[$i] == 60):
+										$fdivid = "60";
 										break;
-										case ($timer[$i] > 60 && $timer[$i] <= 120); $fdivid = "60more";
+										case ($timer[$i] > 60 && $timer[$i] <= 120):
+										$fdivid = "60more";
 										break; 
 									}
-									$fdonelink = "<a class=\"btn btn-danger\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 						}
+						function pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink){
+						switch($fhref){
+							case ($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"):
+							$fhref = $link[$i];
+							echo $fdonelink;
+							break;
+							case ($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"):
+							$fhref = "$link[$i]/?r=".__REF;
+							echo $fdonelink;
+							break;
+							case ($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"):
+							$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+							echo $fdonelink;
+							break;
+							default: $fhref = $link[$i].$reflink[$i];
+							echo $fdonelink;
+							break;
+						}}
+						
 						?>
 						<div class="well page active">
 							<h1 class="header">Fausets</h1>
