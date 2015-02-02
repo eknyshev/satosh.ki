@@ -80,7 +80,6 @@ average;link;captcha;reg;actualink;reflink;timer
 1;http://mmoclub.com/faucet/;Solve Media;FALSE;TRUE;TRUE;180
 0;http://bitcoinfaucet.tk;reCAPTCHA;FALSE;FALSE;FALSE;180
 0;http://fast.free-btc.info;reCAPTCHA;FALSE;TRUE;TRUE;180
-0;http://yourclicks.info/;Solve Media;FALSE;TRUE;TRUE;180
 150;http://warhammer-coin.com;Solve Media;FALSE;FALSE;TRUE;120
 150;http://happyfaucet.org;Solve Media;FALSE;FALSE;TRUE;120
 120;http://btc.rena-faucet.com;none;FALSE;FALSE;?id=42991;120
@@ -89,7 +88,7 @@ average;link;captcha;reg;actualink;reflink;timer
 80;http://therunningfaucet.com;Solve Media;FALSE;FALSE;?ref=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV;120
 70;http://crypto-bitcoin-faucet.tk;reCAPTCHA;FALSE;FALSE;TRUE;120
 50;http://getbitco.com;Solve Media;FALSE;FALSE;TRUE;120
-50;http://crypto.miikman.com;Solve Media;FALSE;TRUE;TRUE;120
+50;http://crypto.miikman.com/fauset;Solve Media;FALSE;TRUE;TRUE;120
 30;http://freebtcfaucet.com;Solve Media;FALSE;TRUE;TRUE;120
 10;http://webservice.ga/fauset/;Solve Media;FALSE;FALSE;TRUE;120
 0;http://lefaucet.com;Solve Media;FALSE;TRUE;TRUE;120
@@ -162,7 +161,7 @@ average;link;captcha;reg;actualink;reflink;timer
 75;http://nyancoins.260mb.net/microfaucet/;Solve Media;FALSE;TRUE;TRUE;60
 75;http://bitcoinstarters.com;reClamper;FALSE;FALSE;TRUE;60
 75;http://deasfanara.grn.cc;reCAPTCHA;FALSE;FALSE;TRUE;60
-75;http://btcforyou.info;Solve Media;FALSE;FALSE;TRUE;60
+75;http://btcforyou.info/fauset.php;Solve Media;FALSE;FALSE;TRUE;60
 75;http://flyingfaucet.com;Solve Media;FALSE;FALSE;TRUE;60
 75;http://letsgoo.de;Solve Media;FALSE;FALSE;TRUE;60
 64;http://bitcoinfaucet.reallibertymedia.com;reCAPTCHA;FALSE;TRUE;TRUE;60
@@ -231,7 +230,7 @@ average;link;captcha;reg;actualink;reflink;timer
 50;http://faucet.cryptbond.com;Solve Media;FALSE;FALSE;TRUE;45
 50;http://btc-faucet.com;Are You a Human;FALSE;FALSE;TRUE;45
 50;http://free50satoshi.com;Solve Media;FALSE;TRUE;TRUE;45
-10;http://adbiss.net/btcfaucet.php/;Solve Media;FALSE;TRUE;TRUE;45
+10;http://adbiss.net/btcfaucet.php;Solve Media;FALSE;TRUE;TRUE;45
 50;http://btcfaucet.co;Are You a Human;FALSE;FALSE;TRUE;33
 107;http://thecoinmine.com;Solve Media;TRUE;FALSE;TRUE;30
 100;http://mariofaucet.com;Solve Media;TRUE;n;y;30m
@@ -276,7 +275,7 @@ average;link;captcha;reg;actualink;reflink;timer
 50;http://www.kami-ike.net/view/home/;reCAPTCHA;FALSE;FALSE;FALSE;30
 50;http://bitblogshare.com;Solve Media;FALSE;FALSE;TRUE;30
 50;http://smallbitcoin.doublebitcoins.com;Solve Media;FALSE;TRUE;TRUE;30
-30;http://btc.btcae.net;Are You a Human;FALSE;FALSE;TRUE;30
+30;http://btc.btcae.net;Are You a Human;TRUE;FALSE;TRUE;30
 30;http://nix.buysellcoin.net;reCAPTCHA;FALSE;TRUE;TRUE;30
 25;http://microbtc.ml;reCAPTCHA;FALSE;FALSE;TRUE;30
 25;http://smartbitcoin.cf;reCAPTCHA;FALSE;FALSE;TRUE;30

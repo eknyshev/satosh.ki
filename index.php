@@ -31,7 +31,7 @@
 	    <link href="dist/css/ripples.min.css" rel="stylesheet">
 
 	    <!-- Dropdown.js -->
-	    <link href="//cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.css" rel="stylesheet"> -->
+	    <link href="//cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.css" rel="stylesheet">
 
 	    <!-- Page style -->
 	    <style>
@@ -164,64 +164,62 @@
 						<li class="withripple">Two hours</li>
 						<li class="withripple">More then two hours</li>
 						<li style="pointer: default;"></br></li>
-						<li class="withripple"><a href="https://faucetbox.com/en/check/1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank">FausetBox Check</a></li>
-						<li class="withripple"><a href="https://www.microwallet.org/?u=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank">Microwallet Check</a></li>
+						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank">FausetBox Check</a></li>
+						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank">Microwallet Check</a></li>
 						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank">XAPO wallet check</a></li>
 					</ul>
 				</nav>
 				<div class="pages col-xs-9">
 					<div class="col-xs-10">
 						<?php
-						function filler($link, $reg, $reflink, $actuallink, $fhref, $timer){
-							echo "!</br>";
-							
-							#pilim linki (peredelat v switch-case)
-							for ($i=1; $i<count($link); $i++){
-								if($reg[$i] == "FALSE"){
-									pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink);
-									$fdonelink = "<a class=\"btn btn-danger\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
-
-									switch($timer[$i]){
-										case ($timer[$i] < 30):
-										$fdivid = "30less";
-										break;
-										case ($timer[$i] >=30 && $timer[$i] < 60):
-										$fdivid =  "30_60";
-										break;
-										case ($timer[$i] == 60):
-										$fdivid = "60";
-										break;
-										case ($timer[$i] > 60 && $timer[$i] <= 120):
-										$fdivid = "60more";
-										break; 
-									}
-								}
+						
+						function timeSort($timer){
+							for($i=1; $i<=count($timer); $i++){
+							switch($timer[$i]){
+								case ($timer[$i] < 30):
+								echo "<p>30less</p></br>";
+								pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink, $timer);
+								break;
+								case ($timer[$i] >=30 && $timer[$i] < 60):
+								echo  "<p>30_60</p></br>";
+								pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink, $timer);
+								break;
+								case ($timer[$i] == 60):
+								echo "<p>60</p></br>";
+								pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink, $timer);
+								break;
+								case ($timer[$i] > 60 && $timer[$i] <= 120):
+								echo "<p>60more</p></br>";
+								pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink, $timer);
+								break; 
+							}}
+						}
+						function pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink, $timer){
+							$fdonelink = "<a class=\"btn btn-danger\" href=\"".$fhref."\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
+							switch($fhref){
+								case ($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"):
+								$fhref = $link[$i];
+								echo $fdonelink;
+								break;
+								case ($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"):
+								$fhref = "$link[$i]/?r=".__REF;
+								echo $fdonelink;
+								break;
+								case ($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"):
+								$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								echo $fdonelink;
+								break;
+								default: $fhref = $link[$i].$reflink[$i];
+								echo $fdonelink;
+								break;
 							}
 						}
-						function pilimLinki($fhref, $reflink, $actuallink, $i, $fdonelink){
-						switch($fhref){
-							case ($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"):
-							$fhref = $link[$i];
-							echo $fdonelink;
-							break;
-							case ($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"):
-							$fhref = "$link[$i]/?r=".__REF;
-							echo $fdonelink;
-							break;
-							case ($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"):
-							$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
-							echo $fdonelink;
-							break;
-							default: $fhref = $link[$i].$reflink[$i];
-							echo $fdonelink;
-							break;
-						}}
 						
 						?>
 						<div class="well page active">
 							<h1 class="header">Fausets</h1>
 							<?php
-							echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h3>More then one hour</h3>";
+							/*echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h3>More then one hour</h3>";
 							for ($i=1; $i<count($link); $i++){
 								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
 									$fhref = $link[$i];
@@ -237,7 +235,7 @@
 									echo "<a class=\"btn btn-default \" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
-							echo "</div></br>";
+							echo "</div></br>";*/
 							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>One hour</h2>";
 							for ($i=1; $i<count($link); $i++){
 								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
@@ -250,8 +248,8 @@
 									$fhref = $link[$i].$reflink[$i];
 								}
 
-								if($reg[$i] == "FALSE" && $timer[$i] == 60){
-									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								if($reg[$i] == "FALSE" && $timer[$i] >= 45 & $timer[$i] < 210 ){
+									echo "<a class=\"btn btn-default btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
@@ -267,12 +265,12 @@
 									$fhref = $link[$i].$reflink[$i];
 								}
 
-								if($reg[$i] == "FALSE" && $timer[$i] < 60 && $timer[$i] >=30){
-									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+								if($reg[$i] == "FALSE" && $timer[$i] < 45 && $timer[$i] >25){
+									echo "<a class=\"btn btn-default btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
-							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>Less then half hour</h2>";
+							/*echo "<div style=\"background-color: #f0f0f0; padding: 2px;\"><h2>Less then half hour</h2>";
 							for ($i=1; $i<count($link); $i++){
 								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
 									$fhref = $link[$i];
@@ -288,9 +286,9 @@
 									echo "<a class=\"btn btn-primary btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
-							echo "</div>";
+							echo "</div>";*/
 							echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h2>Temporary block</h2>";
-							filler($link, $reg, $reflink, $actuallink, $fhref, $timer);
+							timeSort($timer);
 							echo "</div>";
 							?>
 						</div>
