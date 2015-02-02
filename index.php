@@ -249,7 +249,7 @@
 								}
 
 								if($reg[$i] == "FALSE" && $timer[$i] >= 45 & $timer[$i] < 210 ){
-									echo "<a class=\"btn btn-default btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
@@ -266,7 +266,7 @@
 								}
 
 								if($reg[$i] == "FALSE" && $timer[$i] < 45 && $timer[$i] >25){
-									echo "<a class=\"btn btn-default btn-material-green\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
+									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 90px; margin: 2px;\" >".$timer[$i]."</a>";
 								}
 							}
 							echo "</div>";
@@ -288,7 +288,7 @@
 							}
 							echo "</div>";*/
 							echo "<div style=\"background-color: #f0f0f0; padding: 2px 10px 10px;\"><h2>Temporary block</h2>";
-							timeSort($timer);
+							#timeSort($timer);
 							echo "</div>";
 							?>
 						</div>
