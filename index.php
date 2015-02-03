@@ -161,9 +161,9 @@
 						<li class="active withripple" data-target="#huy">One hour and more</li>
 						<li class="withripple" data-target="#pohuy">Half hour</li>
 						<li style="pointer: default;"></br></li>
-						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank">FausetBox Check</a></li>
-						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank">Microwallet Check</a></li>
-						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank">XAPO wallet check</a></li>
+						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
+						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
+						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank"><p>XAPO wallet check</p></a></li>
 					</ul>
 				</nav>
 				<div class="pages col-xs-9">
