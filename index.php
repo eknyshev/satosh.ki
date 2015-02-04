@@ -147,7 +147,7 @@
 	<body>
 		<div class="header-panel shadow-z-4">
 			<div class="container-fluid">
-				<div class="row row-material-cyan-100">
+				<div class="row">
 					<div class="col-xs-3">
 						<a href="http://localhost/satosh.ki"><h1>PHuy Satoshk.in</h1></a>
 					</div>
@@ -158,14 +158,16 @@
 			<div class="row">
 				<nav class="col-xs-3 menu">
 					<ul>
-						<li class="active withripple" data-target="#huy">One hour and more</li>
-						<li class="withripple" data-target="#pohuy">Half hour</li>
-						<li style="pointer: default;"></br></li>
+						<li class="active withripple" data-target="#pohuy">Half hour</li>
+						<li class="withripple" data-target="#huy">One hour and more</li>
+						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
 						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
 						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank"><p>XAPO wallet check</p></a></li>
 						<li class="withripple"><a href="http://quickbitco.in/faucet/game" target="_blank"><p>Quick Bitcoin(XAPO)</p></a></li>
 						<li class="withripple"><a href="http://moonbit.co.in" target="_blank"><p>Moon Bitcoin(XAPO)</p></a></li>
+						<li style="cursor: default;"></br></li>
+						<li class="withripple" data-target="#testing">Testing page</li>
 					</ul>
 				</nav>
 				<div class="pages col-xs-9">
@@ -217,29 +219,7 @@
 						}
 						
 						?>
-						<div class="well page active" id="huy">
-							<h1 class="header">One hour</h1>
-							<?php
-							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\">";
-							for ($i=1; $i<count($link); $i++){
-								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
-									$fhref = $link[$i];
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
-									$fhref = "$link[$i]/?r=".__REF;
-								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
-									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
-								}else {
-									$fhref = $link[$i].$reflink[$i];
-								}
-
-								if($reg[$i] == "FALSE" && $timer[$i] >= 45 & $timer[$i] < 210 ){
-									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
-								}
-							}
-							echo "</div>";
-							?>
-						</div>
-						<div class="well page" id="pohuy">
+						<div class="well page active" id="pohuy">
 							<h1 class="header">Half hour</h1>
 								<?php
 								echo "<div style=\"background-color: #f0f0f0; padding: 2px;\">";
@@ -261,16 +241,50 @@
 								echo "</div>";
 								?>
 						</div>
+						<div class="well page" id="huy">
+							<h1 class="header">One hour</h1>
+							<?php
+							echo "<div style=\"background-color: #f0f0f0; padding: 2px;\">";
+							for ($i=1; $i<count($link); $i++){
+								if($reflink[$i] == "FALSE" && $actuallink[$i] == "FALSE"){
+									$fhref = $link[$i];
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "FALSE"){
+									$fhref = "$link[$i]/?r=".__REF;
+								}else if($reflink[$i] == "TRUE" && $actuallink[$i] == "TRUE"){
+									$fhref = "$link[$i]/?r=".__REF."&u=".__WAL;
+								}else {
+									$fhref = $link[$i].$reflink[$i];
+								}
+
+								if($reg[$i] == "FALSE" && $timer[$i] >= 45 & $timer[$i] < 210 ){
+									echo "<a class=\"btn btn-default\" href=\"$fhref\" target=_blank style=\"width: 88px; margin: 2px;\" >".$timer[$i]."</a>";
+								}
+							}
+							echo "</div>";
+							?>
+						</div>
+						
+						<div class="well page" id="testing">
+							<h1 class="header">Testing features</h1>
+							<div style="background-color: #fff3e0; padding: 2px;">
+								<div style="border: 1px solid #fff;">
+									<div>
+										<p>SiteName<hr>Captcha</p>
+										<p>Timer</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- JS scripts -->
 	    <script>
-	      window.page = window.location.hash || "#huy";
+	      window.page = window.location.hash || "#pohuy";
 
 	      $(document).ready(function() {
-	        if (window.page != "#huy") {
+	        if (window.page != "#pohuy") {
 	          $(".menu").find("li[data-target=" + window.page + "]").trigger("click");
 	        }
 	      });
