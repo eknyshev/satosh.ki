@@ -101,7 +101,7 @@ average;link;captcha;reg;actualink;reflink;timer
 100;http://moonbitcoin.esy.es;reClamper;FALSE;TRUE;TRUE;99
 150;http://criptof.ru;reClamper;TRUE;n;y;1h 30m
 0;http://freebtc.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;90
-100;http://pulpfaucet.com;Solve Media;TRUE;n;y;1h
+100;http://pulpfaucet.com;Solve Media;TRUE;n;y;60
 500;http://dancefaucet.com;Solve Media;FALSE;FALSE;TRUE;60
 500;http://scratch4satoshis.com;Solve Media;FALSE;FALSE;/?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
 400;http://welovebtc.com;Are You a Human;FALSE;TRUE;TRUE;60
@@ -223,7 +223,8 @@ average;link;captcha;reg;actualink;reflink;timer
 0;http://garudabitcoin.t15.org;Solve Media;FALSE;TRUE;TRUE;60
 0;http://free-bitcoin-faucet.foreverco.in;Are You a Human;FALSE;FALSE;TRUE;60
 0;http://redcoinsco.aws.af.cm;Solve Media;FALSE;FALSE;TRUE;60
-;http://50or500.com/;Solve Media;FALSE;TRUE;TRUE;60
+0;http://50or500.com/;Solve Media;FALSE;TRUE;TRUE;60
+0;http://www.faucetofamerica.com;Are You a Human;FALSE;TRUE;FALSE;60
 200;http://superbitco.in;Are You a Human;FALSE;TRUE;?r=3695;55
 150;http://darcoins.com;Solve Media;FALSE;TRUE;TRUE;55
 360;http://winfreebitco.in;reCAPTCHA;FALSE;FALSE;http://winfreebitco.in/16739;45

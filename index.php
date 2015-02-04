@@ -164,6 +164,8 @@
 						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
 						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
 						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank"><p>XAPO wallet check</p></a></li>
+						<li class="withripple"><a href="http://quickbitco.in/faucet/game" target="_blank"><p>Quick Bitcoin(XAPO)</p></a></li>
+						<li class="withripple"><a href="http://moonbit.co.in" target="_blank"><p>Moon Bitcoin(XAPO)</p></a></li>
 					</ul>
 				</nav>
 				<div class="pages col-xs-9">
