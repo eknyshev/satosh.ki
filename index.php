@@ -39,7 +39,7 @@
 	        box-sizing: border-box;
 	      }
 	      .header-panel {
-	        background-color: #009587;
+	        background-color: #607d8b;
 	        height: 144px;
 	        position: relative;
 	        z-index: 3;
@@ -147,9 +147,9 @@
 	<body>
 		<div class="header-panel shadow-z-4">
 			<div class="container-fluid">
-				<div class="row">
+				<div class="row row-material-cyan-100">
 					<div class="col-xs-3">
-						<h1>PHuy Satoshk.in</h1>
+						<a href="http://localhost/satosh.ki"><h1>PHuy Satoshk.in</h1></a>
 					</div>
 				</div>
 			</div>

@@ -224,10 +224,10 @@ average;link;captcha;reg;actualink;reflink;timer
 0;http://free-bitcoin-faucet.foreverco.in;Are You a Human;FALSE;FALSE;TRUE;60
 0;http://redcoinsco.aws.af.cm;Solve Media;FALSE;FALSE;TRUE;60
 0;http://50or500.com/;Solve Media;FALSE;TRUE;TRUE;60
-0;http://www.faucetofamerica.com;Are You a Human;FALSE;TRUE;FALSE;60
+0;http://www.faucetofamerica.com;Are You a Human;FALSE;FALSE;TRUE;60
 200;http://superbitco.in;Are You a Human;FALSE;TRUE;?r=3695;55
 150;http://darcoins.com;Solve Media;FALSE;TRUE;TRUE;55
-360;http://winfreebitco.in;reCAPTCHA;FALSE;FALSE;http://winfreebitco.in/16739;45
+360;http://winfreebitco.in/16739;reCAPTCHA;FALSE;FALSE;FALSE;45
 50;http://faucet.cryptbond.com;Solve Media;FALSE;FALSE;TRUE;45
 50;http://btc-faucet.com;Are You a Human;FALSE;FALSE;TRUE;45
 50;http://free50satoshi.com;Solve Media;FALSE;TRUE;TRUE;45
