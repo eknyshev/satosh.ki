@@ -197,7 +197,8 @@ http://futurefaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
 http://gameoutlet.biz;Solve Media;FALSE;TRUE;TRUE;60
 http://garudabitcoin.t15.org;Solve Media;FALSE;TRUE;TRUE;60
 http://gibitcoins.me;Solve Media;FALSE;TRUE;TRUE;60
-http://gofreebitcoin.com;Solve Media;FALSE;TRUE;FALSE;60
+http://gofreebitcoin.com;Solve Media;FALSE;TRUE;TRUE;60
+http://goldwmr.ru/play;Solve Media;FALSE;TRUE;TRUE;60
 http://happyputin.com;Solve Media;FALSE;TRUE;TRUE;60
 http://hotbitco.in;Solve Media;FALSE;TRUE;TRUE;60
 http://hotswap.co;Solve Media;FALSE;TRUE;TRUE;60
@@ -298,7 +299,7 @@ http://btc.altcoin.pw;Solve Media;FALSE;TRUE;TRUE;25
 http://23satoshi.com/;Solve Media;FALSE;TRUE;TRUE;23
 http://bitcobox.doublebitcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;20
 http://bitcoinjackpot.co;Are You a Human;FALSE;FALSE;FALSE;20
-http://topbitco.in;Solve Media;FALSE;FALSE;?id=4829;20
+http://topbitco.in;Solve Media;TRUE;FALSE;?id=4829;20
 http://cityofbitcoin.com;reCAPTCHA;TRUE;TRUE;TRUE;20
 http://clixincome.com;Solve Media;FALSE;TRUE;TRUE;20
 http://timemoney.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;20

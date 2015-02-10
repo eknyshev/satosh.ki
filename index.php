@@ -162,6 +162,7 @@
 						<li class="withripple" data-target="#huy">One hour and more</li>
 						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="http://btc-flow.com/index" target="_blank">BTC flow</a></li>
+						<li class="withripple"><a href="https://coinsdouble.com/?my=1" target="_blank">Coins Double</a></li>
 						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
 						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
