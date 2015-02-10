@@ -1,440 +1,449 @@
-average;link;captcha;reg;actualink;reflink;timer
-150;http://getbitcoins.dixo.net;Solve Media;FALSE;FALSE;FALSE;1440
-100;http://businessideas.nl/bitcoin-faucet/;Solve Media;FALSE;TRUE;TRUE;1440
-100;http://bitcoinbee.net;reCAPTCHA;FALSE;TRUE;TRUE;1440
-100;http://100satoshi.net;Solve Media;FALSE;FALSE;TRUE;1440
-50;http://bitcoiner.website/;reCAPTCHA;FALSE;TRUE;TRUE;1440
-50;http://btc.justfaucet.net;Solve Media;FALSE;FALSE;TRUE;1440
-25;http://bit.bissnes.net;Solve Media;FALSE;TRUE;TRUE;1440
-25;http://faucet.chuta.org;reCAPTCHA;FALSE;TRUE;TRUE;1440
-20;http://btcrumor.com/faucet/;Solve Media;FALSE;FALSE;TRUE;1440
-10;http://bitcoin-free.ru;reCAPTCHA;FALSE;FALSE;TRUE;1440
-10;http://btc.01g.info;reCAPTCHA;FALSE;FALSE;TRUE;1440
-1;http://bit-co.in.ua;reCAPTCHA;FALSE;TRUE;TRUE;1440
-1;http://faucet.omnibot2k.com;reCAPTCHA;FALSE;FALSE;TRUE;1440
-1;http://coin-tap.biz;Solve Media;FALSE;FALSE;TRUE;1440
-1;http://coin.01g.info;reCAPTCHA;FALSE;TRUE;TRUE;1440
-1;http://coin.bissnes.net;Solve Media;FALSE;TRUE;TRUE;1440
-1;http://btctap.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;1440
-1;http://freebitcoin.su;Solve Media;FALSE;FALSE;TRUE;1440
-0;http://gif-it.com;Solve Media;FALSE;TRUE;TRUE;1440
-0;http://freebitcoins.nx.tc;Solve Media;FALSE;TRUE;TRUE;1440
-0;http://biteacoin.ml;Solve Media;FALSE;TRUE;TRUE;1440
-0;http://btcgiveaway.yzi.me;Solve Media;FALSE;TRUE;TRUE;1440
-0;http://btc.in.ua;Solve Media;FALSE;TRUE;TRUE;1440
-150;http://galaxy.lefaucet.com;Solve Media;FALSE;TRUE;TRUE;1380
-100;http://bitcoinfreebees.me;Solve Media;FALSE;TRUE;TRUE;1380
-100;http://satoshis4.us;Solve Media;FALSE;TRUE;TRUE;1380
-68;http://zoneco.in;Solve Media;FALSE;TRUE;TRUE;1320
-0;http://littledogsbtc.byethost13.com;Are You a Human;FALSE;FALSE;TRUE;1220
-10;http://btcfine.16mb.com;Are You a Human;FALSE;FALSE;TRUE;960
-175;http://lol.lefaucet.com;Solve Media;FALSE;TRUE;TRUE;720
-50;http://hotbitcoins.com;Solve Media;FALSE;TRUE;TRUE;720
-25;http://allbtc.bissnes.org;reCAPTCHA;FALSE;TRUE;TRUE;720
-25;http://btctap.bissnes.org;Solve Media;FALSE;TRUE;TRUE;720
-0;http://bitcoin.faucet.fr;reCAPTCHA;FALSE;FALSE;TRUE;720
-0;http://bitcoin.tuzik-hole.ru;Solve Media;FALSE;TRUE;TRUE;720
-555;http://jazfaucetlist.com;Solve Media;FALSE;FALSE;TRUE;600
-50;http://faucet.emoneyroute.com;reCAPTCHA;FALSE;TRUE;TRUE;600
-50;http://www.mundocrypto.com.ve/faucet/index.php/;Solve Media;FALSE;TRUE;TRUE;600
-0;http://btcgratis.com;Solve Media;FALSE;FALSE;TRUE;600
-100;http://blog.btcgermany.eu/faucet/;reCAPTCHA;FALSE;FALSE;TRUE;540
-50;http://coincompound.com;reCAPTCHA;FALSE;TRUE;TRUE;480
-25;http://sfreebtc.byethost17.com;Solve Media;FALSE;TRUE;TRUE;480
-100;http://faucetbox.bitcoinr.cz;reCAPTCHA;FALSE;TRUE;TRUE;360
-50;http://dextopzone.com/faucet/;Solve Media;FALSE;TRUE;TRUE;360
-50;http://bestbitcoinfaucet.net;Solve Media;FALSE;TRUE;TRUE;360
-25;http://bitcoin.01g.info;Solve Media;FALSE;TRUE;TRUE;360
-25;http://bitcoingator.com;Solve Media;FALSE;FALSE;TRUE;360
-25;http://minmov.sk;Solve Media;FALSE;FALSE;TRUE;360
-20;http://freesatoshi.website;reCAPTCHA;FALSE;TRUE;TRUE;360
-20;http://bitcoinfaucet.club;Solve Media;FALSE;TRUE;TRUE;360
-1;http://coin.bissnes.org;Solve Media;FALSE;TRUE;TRUE;360
-0;http://kharz.byethost7.com;reCAPTCHA;FALSE;TRUE;TRUE;360
-0;http://bexxpal.com;Solve Media;FALSE;TRUE;TRUE;360
-0;http://10xbifco.in;reCAPTCHA;FALSE;TRUE;TRUE;360
-150;http://freebtc-faucet.com;reCAPTCHA;FALSE;TRUE;TRUE;320
-40;http://claimfreebitcoins.com;Solve Media;FALSE;TRUE;TRUE;300
-25;http://freakfaucet.com;Solve Media;FALSE;FALSE;TRUE;300
-50;http://faucet.phuk-it.com;reCAPTCHA;FALSE;FALSE;TRUE;240
-45;http://titaniumbtc.com;Solve Media;FALSE;FALSE;TRUE;240
-0;http://cointreats.com;Solve Media;FALSE;TRUE;TRUE;240
-0;http://bitcoinhunters.net;Solve Media;FALSE;TRUE;TRUE;240
-0;http://superfaucet.com;Solve Media;FALSE;TRUE;TRUE;240
-77;http://btcmountain.com;Solve Media;FALSE;TRUE;TRUE;210
-200;http://bitcoingate.biz;Solve Media;FALSE;TRUE;TRUE;180
-100;http://btcearn.ml;reCAPTCHA;FALSE;TRUE;TRUE;180
-100;http://spektrumfaucet.mine.nu;reCAPTCHA;FALSE;FALSE;TRUE;180
-100;http://myfreebitcoins.org;Solve Media;FALSE;TRUE;TRUE;180
-75;http://pizzafaucet.com;Solve Media;FALSE;FALSE;TRUE;180
-50;http://bitcoincex.com;Solve Media;FALSE;TRUE;TRUE;180
-50;http://yourclicks.info;none;FALSE;TRUE;TRUE;180
-40;http://coinprizes.com;Solve Media;FALSE;FALSE;TRUE;180
-30;http://bestbtcfaucet.com;Solve Media;FALSE;FALSE;?ref=113104;180
-25;http://littlecoiner.com;reCAPTCHA;FALSE;TRUE;TRUE;180
-20;http://bit-coin-free.com;Solve Media;FALSE;TRUE;TRUE;180
-20;http://quickbitcash.bit-coin-free.com;Solve Media;FALSE;TRUE;TRUE;180
-5;http://cryptocoinsfaucets.tk;Solve Media;FALSE;TRUE;TRUE;180
-5;http://bitfreefaucet.tk;Solve Media;FALSE;TRUE;TRUE;180
-1;http://faucet.bitcoinminerz.com;Solve Media;FALSE;TRUE;TRUE;180
-1;http://mmoclub.com/faucet/;Solve Media;FALSE;TRUE;TRUE;180
-0;http://bitcoinfaucet.tk;reCAPTCHA;FALSE;FALSE;FALSE;180
-0;http://fast.free-btc.info;reCAPTCHA;FALSE;TRUE;TRUE;180
-150;http://warhammer-coin.com;Solve Media;FALSE;FALSE;TRUE;120
-150;http://happyfaucet.org;Solve Media;FALSE;FALSE;TRUE;120
-120;http://btc.rena-faucet.com;none;FALSE;FALSE;?id=42991;120
-100;http://bitcoinshowers.com;Solve Media;FALSE;TRUE;TRUE;120
-100;http://getfreebitcoins.eu;reCAPTCHA;FALSE;FALSE;TRUE;120
-80;http://therunningfaucet.com;Solve Media;FALSE;FALSE;?ref=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV;120
-70;http://crypto-bitcoin-faucet.tk;reCAPTCHA;FALSE;FALSE;TRUE;120
-50;http://getbitco.com;Solve Media;FALSE;FALSE;TRUE;120
-50;http://crypto.miikman.com/fauset;Solve Media;FALSE;TRUE;TRUE;120
-30;http://freebtcfaucet.com;Solve Media;FALSE;TRUE;TRUE;120
-10;http://webservice.ga/fauset/;Solve Media;FALSE;FALSE;TRUE;120
-0;http://lefaucet.com;Solve Media;FALSE;TRUE;TRUE;120
-0;http://dustbit.co.in;reCAPTCHA;FALSE;FALSE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;120
-0;http://satoshis.gratis;Solve Media;FALSE;TRUE;TRUE;120
-0;http://eblackmilk.pl;Solve Media;FALSE;FALSE;TRUE;120
-0;http://satoshiga.ga;reCAPTCHA;FALSE;TRUE;TRUE;120
-0;http://rabbitcoin.biz;Solve Media;FALSE;TRUE;TRUE;120
-50;http://free-btc.info;reCAPTCHA;FALSE;TRUE;TRUE;100
-100;http://moonbitcoin.esy.es;reClamper;FALSE;TRUE;TRUE;99
-150;http://criptof.ru;reClamper;TRUE;n;y;1h 30m
-0;http://freebtc.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;90
-100;http://pulpfaucet.com;Solve Media;TRUE;n;y;60
-500;http://dancefaucet.com;Solve Media;FALSE;FALSE;TRUE;60
-500;http://scratch4satoshis.com;Solve Media;FALSE;FALSE;/?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
-400;http://welovebtc.com;Are You a Human;FALSE;TRUE;TRUE;60
-400;http://btcfaucetlist.net;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
-350;http://rtube.de;reCAPTCHA;FALSE;FALSE;TRUE;60
-301;http://freebetco.in;Solve Media;FALSE;TRUE;TRUE;60
-300;http://moneyinpjs.com/BTCfaucet/;Solve Media;FALSE;TRUE;TRUE;60
-300;http://big-coin.eu;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
-300;http://robcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-300;http://botva.net;reCAPTCHA;FALSE;FALSE;TRUE;60
-300;http://offerstep.com;Solve Media;FALSE;TRUE;TRUE;60
-275;http://coinracket.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-250;http://laguna.btcinfame.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-250;http://coin-machine.eu;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
-200;http://omux.ru;Solve Media;FALSE;TRUE;/ref_2914;60
-200;http://icebitco.in;Are You a Human;FALSE;FALSE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
-200;http://btc2.rena-faucet.com;Solve Media;FALSE;FALSE;?id=42991;60
-200;http://bitkran.ru;Solve Media;FALSE;TRUE;TRUE;60
-175;http://leagueofbitcoin.tk;Solve Media;FALSE;FALSE;TRUE;60
-175;http://qoinmicro.tk;Solve Media;FALSE;TRUE;TRUE;60
-150;http://next.hebergratuit.net;Are You a Human;FALSE;FALSE;TRUE;60
-150;http://satoshibear.com;Solve Media;FALSE;TRUE;TRUE;60
-150;http://faucet.csingenieros.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-150;http://bitwinfaucet.tk;Solve Media;FALSE;TRUE;TRUE;60
-150;http://btcgiveaway.com;Solve Media;FALSE;TRUE;TRUE;60
-150;http://bit4surf.com;Solve Media;FALSE;TRUE;TRUE;60
-128;http://workrunet.info;Solve Media;FALSE;TRUE;TRUE;60
-125;http://qoinmicro.tk;Solve Media;FALSE;TRUE;TRUE;60
-101;http://captchas.rocks;Solve Media;FALSE;TRUE;TRUE;60
-100;http://bitcoinker.com;Solve Media;FALSE;FALSE;TRUE;60
-100;http://moneyinpjs.com/faucet/;Solve Media;FALSE;TRUE;TRUE;60
-100;http://faucet.bitcoinzebra.com;Solve Media;FALSE;FALSE;?ref=9ea380c70f9d;60
-100;http://bitmachine.org/mach1/;reCAPTCHA;FALSE;FALSE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
-100;http://dailyfreebits.com;reCAPTCHA;FALSE;FALSE;?id=5390291;60
-100;http://datafaucet.info;reCAPTCHA;FALSE;FALSE;?id=1101052;60
-100;http://treasurefaucet.com;Solve Media;FALSE;FALSE;FALSE;60
-100;http://freebitfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-100;http://luckycoin.me;Solve Media;FALSE;TRUE;TRUE;60
-100;http://bitcoin.imgxd.com;Solve Media;FALSE;TRUE;TRUE;60
-100;http://qoinbox.tk;Solve Media;FALSE;FALSE;TRUE;60
-100;http://justfreebtc.com;Solve Media;FALSE;FALSE;TRUE;60
-100;http://scoopyfaucet.webs.pm;reCAPTCHA;FALSE;TRUE;TRUE;60
-100;http://gofreebitcoin.com;Solve Media;FALSE;TRUE;FALSE;60
-100;http://luckybitfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-100;http://caribit.co.in;Solve Media;FALSE;TRUE;TRUE;60
-100;http://1000satoshi.com;Solve Media;FALSE;FALSE;TRUE;60
-100;http://mobipayer.ru;Are You a Human;FALSE;FALSE;TRUE;60
-100;http://omux2.ru;Solve Media;FALSE;FALSE;TRUE;60
-100;http://lotofbits.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-100;http://microfaucet.cryptal.net;Solve Media;FALSE;TRUE;TRUE;60
-100;http://bitcoinforyou.tk;Solve Media;FALSE;TRUE;TRUE;60
-100;http://bit.ksoro.com;Solve Media;FALSE;FALSE;TRUE;60
-77;http://777btc.cf;Solve Media;FALSE;TRUE;TRUE;60
-75;http://ourbtcsite.com;reClamper;FALSE;FALSE;TRUE;60
-75;http://happyputin.com;Solve Media;FALSE;TRUE;TRUE;60
-75;http://gibitcoins.me;Solve Media;FALSE;TRUE;TRUE;60
-75;http://nyancoins.260mb.net/microfaucet/;Solve Media;FALSE;TRUE;TRUE;60
-75;http://bitcoinstarters.com;reClamper;FALSE;FALSE;TRUE;60
-75;http://deasfanara.grn.cc;reCAPTCHA;FALSE;FALSE;TRUE;60
-75;http://btcforyou.info/fauset.php;Solve Media;FALSE;FALSE;TRUE;60
-75;http://flyingfaucet.com;Solve Media;FALSE;FALSE;TRUE;60
-75;http://letsgoo.de;Solve Media;FALSE;FALSE;TRUE;60
-64;http://bitcoinfaucet.reallibertymedia.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-60;http://faucet.bodylaw.ru;Solve Media;FALSE;FALSE;TRUE;60
-50;http://realfaucet.is-best.net;Solve Media;FALSE;FALSE;TRUE;60
-50;http://hotswap.co;Solve Media;FALSE;TRUE;TRUE;60
-50;http://bitcoins.kurai.nl;reCAPTCHA;FALSE;TRUE;TRUE;60
-50;http://cracklaw.ru;Solve Media;FALSE;TRUE;TRUE;60
-50;http://bitcoindroplet.com;Solve Media;FALSE;TRUE;TRUE;60
-50;http://bittyfaucet.byethost4.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-50;http://claimbit.co.in/;Solve Media;FALSE;TRUE;TRUE;60
-50;http://luckyfaucet.cf;Solve Media;FALSE;TRUE;TRUE;60
-50;http://gameoutlet.biz;Solve Media;FALSE;TRUE;TRUE;60
-50;http://100bitcoin.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-50;http://bitcoinflow.me;Solve Media;FALSE;FALSE;TRUE;60
-50;http://arbiame.com;Solve Media;FALSE;FALSE;TRUE;60
-50;http://hotbitco.in;Solve Media;FALSE;TRUE;TRUE;60
-50;http://bitfaucet.eu;Solve Media;FALSE;TRUE;TRUE;60
-50;http://coinfaucet.biz;Solve Media;FALSE;TRUE;TRUE;60
-50;http://faucet.playbitcoingame.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-50;http://cravebit.com;Solve Media;FALSE;TRUE;TRUE;60
-50;http://bitcoinra.in;Solve Media;FALSE;TRUE;TRUE;60
-40;http://free-bitcoin-faucet.com;Solve Media;FALSE;TRUE;TRUE;60
-40;http://captchaco.in;Solve Media;FALSE;TRUE;TRUE;60
-40;http://btcfaucet.in;reCAPTCHA;FALSE;TRUE;TRUE;60
-25;http://bitcoin-ace.ir;reCAPTCHA;FALSE;FALSE;TRUE;60
-25;http://free-bitcoiner.ru;Are You a Human;FALSE;TRUE;TRUE;60
-25;http://bitcoinfaucet.rocks;Solve Media;FALSE;FALSE;TRUE;60
-20;http://btcbro.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-20;http://sunbitco.in;reCAPTCHA;FALSE;TRUE;TRUE;60
-15;http://kav8.com;Solve Media;FALSE;FALSE;TRUE;60
-10;http://www.dailycoins.net/faucet/;reCAPTCHA;FALSE;FALSE;TRUE;60
-10;http://faucet.ovh;Solve Media;FALSE;TRUE;TRUE;60
-10;http://faucet.galat.org;Solve Media;FALSE;FALSE;TRUE;60
-7;http://777.candyfaucet.com;reCAPTCHA;FALSE;FALSE;TRUE;60
-5;http://topptc-sites.tk/faucet/index.php/;none;FALSE;FALSE;TRUE;60
-1;http://hourlybitcoins.com;Solve Media;FALSE;TRUE;TRUE;60
-1;http://doors.galat.org;Solve Media;FALSE;FALSE;TRUE;60
-1;http://www.bongbitcoin.com/bongfaucet/;reCAPTCHA;FALSE;FALSE;TRUE;60
-0;http://btc.rkharz.in;Solve Media;FALSE;FALSE;TRUE;60
-0;http://bitcoin.neon.org;reCAPTCHA;FALSE;FALSE;TRUE;60
-0;http://bassfaucet.com;Solve Media;FALSE;FALSE;?ref=12666;60
-0;http://123.bitcoinaplenty.com;reCAPTCHA;FALSE;FALSE;FALSE;60
-0;http://bitcoinjackpot.co;Are You a Human;FALSE;FALSE;FALSE;60
-0;http://jackpotfaucet.com;ConCAPTCHA;FALSE;FALSE;?affid=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
-0;http://bitcoingenie.info;Solve Media;FALSE;TRUE;TRUE;60
-0;http://simplfaucet.com;Are You a Human;FALSE;FALSE;?ref=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
-0;http://fairyfaucet.com;Solve Media;FALSE;TRUE;TRUE;60
-0;http://bitcoins4.me;Solve Media;FALSE;FALSE;FALSE;60
-0;http://bitfaucet4.us;Solve Media;FALSE;FALSE;TRUE;60
-0;http://futurefaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-0;http://mybtchour.com;Solve Media;FALSE;TRUE;TRUE;60
-0;http://bitcoin.guysdomain.com;Solve Media;FALSE;TRUE;TRUE;60
-0;http://bitcoinfaucet.makebucks.today;reCAPTCHA;FALSE;TRUE;TRUE;60
-0;http://yourfaucet.allalla.com;reCAPTCHA;FALSE;TRUE;TRUE;60
-0;http://videoripper.de;reCAPTCHA;FALSE;TRUE;TRUE;60
-0;http://bitcoinsatoshi.tk;Solve Media;FALSE;TRUE;TRUE;60
-0;http://ourbtchour.com;Solve Media;FALSE;TRUE;TRUE;60
-0;http://garudabitcoin.t15.org;Solve Media;FALSE;TRUE;TRUE;60
-0;http://free-bitcoin-faucet.foreverco.in;Are You a Human;FALSE;FALSE;TRUE;60
-0;http://redcoinsco.aws.af.cm;Solve Media;FALSE;FALSE;TRUE;60
-0;http://50or500.com/;Solve Media;FALSE;TRUE;TRUE;60
-0;http://www.faucetofamerica.com;Are You a Human;FALSE;FALSE;TRUE;60
-200;http://superbitco.in;Are You a Human;FALSE;TRUE;?r=3695;55
-150;http://darcoins.com;Solve Media;FALSE;TRUE;TRUE;55
-360;http://winfreebitco.in/16739;reCAPTCHA;FALSE;FALSE;FALSE;45
-50;http://faucet.cryptbond.com;Solve Media;FALSE;FALSE;TRUE;45
-50;http://btc-faucet.com;Are You a Human;FALSE;FALSE;TRUE;45
-50;http://free50satoshi.com;Solve Media;FALSE;TRUE;TRUE;45
-10;http://adbiss.net/btcfaucet.php;Solve Media;FALSE;TRUE;TRUE;45
-50;http://btcfaucet.co;Are You a Human;FALSE;FALSE;TRUE;33
-107;http://thecoinmine.com;Solve Media;TRUE;FALSE;TRUE;30
-100;http://mariofaucet.com;Solve Media;TRUE;n;y;30m
-0;http://srbitcoin.com;Solve Media;TRUE;FALSE;TRUE;30
-0;http://faucetbtc.com;reCAPTCHA;TRUE;FALSE;TRUE;30
-0;http://btc4you.com;reCAPTCHA;TRUE;FALSE;TRUE;30
-0;http://fr33bitcoins.com;none;TRUE;FALSE;TRUE;30
-0;http://thebitcoin.me;Solve Media;TRUE;FALSE;TRUE;30
-425;http://bitcoinok.net;reCAPTCHA;FALSE;FALSE;/?id=200856;30
-350;http://mezzabank.com;Solve Media;FALSE;TRUE;TRUE;30
-300;http://jewelrybitco.in;Are You a Human;FALSE;TRUE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;30
-300;http://neobitcoin.com;Solve Media;FALSE;FALSE;?id=174800;30
-250;http://qoinfaucet.com;Are You a Human;FALSE;TRUE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;30
-250;http://pinktussy.co;Solve Media;FALSE;TRUE;TRUE;30
-250;http://www.cryptoblox.com/faucets/BitCoin/;reCAPTCHA;FALSE;FALSE;?id=182748;30
-200;http://getfree.co.in;reCAPTCHA;FALSE;FALSE;?id=309941;30
-200;http://bitprepay.net;Solve Media;FALSE;TRUE;TRUE;30
-200;http://cryptodrips.com;Solve Media;FALSE;FALSE;TRUE;30
-150;http://bitcoinsoldado.com;reCAPTCHA;FALSE;TRUE;TRUE;30
-150;http://earnabitco.in;Solve Media;FALSE;TRUE;TRUE;30
-120;http://ben10faucet.com;Solve Media;FALSE;TRUE;TRUE;30
-100;http://the-never-ending-story.com;reCAPTCHA;FALSE;TRUE;TRUE;30
-100;http://aqoinfaucet.tk;Solve Media;FALSE;TRUE;TRUE;30
-100;http://profaucet.net;Captch me;FALSE;TRUE;TRUE;30
-100;http://coin.bitdesire.com;reCAPTCHA;FALSE;FALSE;?id=246928;30
-100;http://connectbitco.in;reCAPTCHA;FALSE;FALSE;?id=203;30
-100;http://jexpotz.com;reCAPTCHA;FALSE;FALSE;TRUE;30
-100;http://500satoshi.ru;Solve Media;FALSE;FALSE;TRUE;30
-88;http://finup.info;reCAPTCHA;FALSE;TRUE;TRUE;30
-80;http://bitcoincia.com;Solve Media;FALSE;TRUE;TRUE;30
-75;http://zknfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
-75;http://mexxbase.mezzacoins.net;Solve Media;FALSE;TRUE;TRUE;30
-60;http://getbitcoin.biz;Solve Media;FALSE;TRUE;TRUE;30
-50;http://coingalaxy.tk;Solve Media;FALSE;TRUE;TRUE;30
-50;http://freebitcoins.eu/breakout/;Solve Media;FALSE;TRUE;TRUE;30
-50;http://coin.giftdraw.com;Solve Media;FALSE;TRUE;TRUE;30
-50;http://morebitco.doublebitcoins.com;reCAPTCHA;FALSE;TRUE;TRUE;30
-50;http://payfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
-50;http://worldfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
-50;http://beefaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;30
-50;http://forcrypto.com;Solve Media;FALSE;TRUE;TRUE;30
-50;http://www.kami-ike.net/view/home/;reCAPTCHA;FALSE;FALSE;FALSE;30
-50;http://bitblogshare.com;Solve Media;FALSE;FALSE;TRUE;30
-50;http://smallbitcoin.doublebitcoins.com;Solve Media;FALSE;TRUE;TRUE;30
-30;http://btc.btcae.net;Are You a Human;TRUE;FALSE;TRUE;30
-30;http://nix.buysellcoin.net;reCAPTCHA;FALSE;TRUE;TRUE;30
-25;http://microbtc.ml;reCAPTCHA;FALSE;FALSE;TRUE;30
-25;http://smartbitcoin.cf;reCAPTCHA;FALSE;FALSE;TRUE;30
-20;http://bitcoinparty.me;Solve Media;FALSE;FALSE;TRUE;30
-15;http://btc-for-free.tk;reCAPTCHA;FALSE;TRUE;TRUE;30
-10;http://beam-it-up.de;reCAPTCHA;FALSE;TRUE;TRUE;30
-5;http://bitkendari.wilips.com;Are You a Human;FALSE;FALSE;TRUE;30
-0;http://faucet.bitcoinsjunkie.org;Solve Media;FALSE;TRUE;TRUE;30
-0;http://btc-australian.com;Solve Media;FALSE;TRUE;TRUE;30
-0;http://bearbitco.in;Solve Media;FALSE;TRUE;TRUE;30
-0;http://bitcoinspain.net;Solve Media;FALSE;FALSE;TRUE;30
-0;http://btc.altcoin.pw;Solve Media;FALSE;TRUE;TRUE;25
-0;http://23satoshi.com/;Solve Media;FALSE;TRUE;TRUE;23
-200;http://cityofbitcoin.com;reCAPTCHA;FALSE;TRUE;TRUE;20
-150;http://topbitco.in;Solve Media;FALSE;FALSE;?id=4829;20
-100;http://clixincome.com;Solve Media;FALSE;TRUE;TRUE;20
-100;http://bitcobox.doublebitcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;20
-53;http://timemoney.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;20
-27;http://77bitcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;17
-10000;http://satoshiprize.com;Solve Media;FALSE;TRUE;TRUE;15
-150;http://greenbitco.in;reCAPTCHA;FALSE;TRUE;TRUE;15
-100;http://bitcoin.giftdraw.com;Solve Media;FALSE;TRUE;TRUE;15
-100;http://rainofcoins.tk;Solve Media;FALSE;FALSE;TRUE;15
-100;http://bitcoin-a.pl;Solve Media;FALSE;FALSE;TRUE;15
-100;http://bitcoinreward.comxa.com;Solve Media;FALSE;TRUE;TRUE;15
-90;http://freebitco.info/faucet/;Solve Media;FALSE;TRUE;TRUE;15
-51;http://bit.finup.info;reCAPTCHA;FALSE;TRUE;TRUE;15
-50;http://freebit.wc.lt;Solve Media;FALSE;TRUE;TRUE;15
-50;http://freebitcoin.pk;Solve Media;FALSE;TRUE;TRUE;15
-50;http://50or500.com;Solve Media;FALSE;FALSE;TRUE;15
-50;http://freebitcoins247.com;Solve Media;FALSE;FALSE;TRUE;15
-50;http://faucet.bitcoinclub.eu/faucetbox/;Solve Media;FALSE;TRUE;TRUE;15
-50;http://freefaucet.cf;Solve Media;FALSE;TRUE;TRUE;15
-30;http://green-deal.nu;Solve Media;FALSE;TRUE;TRUE;15
-25;http://bitganancias.com;Solve Media;FALSE;FALSE;TRUE;15
-25;http://btcbank.ml;Solve Media;FALSE;TRUE;TRUE;15
-25;http://blue-faucet.ogsi.it;Solve Media;FALSE;TRUE;TRUE;15
-20;http://www.chesimangia.it/microfaucet;Solve Media;FALSE;TRUE;TRUE;15
-5;http://btfree.ru;reCAPTCHA;FALSE;TRUE;TRUE;15
-5;http://orange-faucet.ogsi.it;Solve Media;FALSE;TRUE;TRUE;15
-2;http://faucet.clixbitco.in;Solve Media;FALSE;TRUE;TRUE;15
-0;http://ussr-faucet.com;Solve Media;FALSE;FALSE;TRUE;15
-0;http://yourcontact.co;reCAPTCHA;FALSE;TRUE;TRUE;15
-0;http://car-faucet.netne.net;Are You a Human;FALSE;FALSE;TRUE;15
-0;http://myfaucet.likesyou.org;Solve Media;FALSE;FALSE;TRUE;15
-300;http://bitcofree.com;reCAPTCHA;FALSE;FALSE;?id=2068116;10
-100;http://biofaucet.com;reCAPTCHA;FALSE;FALSE;TRUE;10
-100;http://100freebit.com;Solve Media;FALSE;TRUE;TRUE;10
-0;http://pppfaucet.com/bitcoin/;reCAPTCHA;FALSE;FALSE;TRUE;10
-0;http://4seasonsfaucet.com/?page=ourfaucet;Solve Media;FALSE;FALSE;TRUE;10
-100;http://scoremybits.com;Solve Media;FALSE;FALSE;TRUE;5
-50;http://bitcoinfast.org;Solve Media;FALSE;TRUE;TRUE;5
-25;http://bitfaucet.1gh.in;Solve Media;FALSE;FALSE;TRUE;5
-0;http://klikcoin.16mb.com;reCAPTCHA;FALSE;FALSE;TRUE;5
-0;http://sexyfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;2
-0;http://bitcoinxd.com;reCAPTCHA;FALSE;FALSE;?id=265054;2
-150;http://bitfaucet4.us;Solve Media;FALSE;FALSE;?r=366390;1
-50;http://faucet.btc22.gq;reCAPTCHA;FALSE;TRUE;TRUE;1
-25;http://faucet.jecool.net;Are You a Human;FALSE;FALSE;TRUE;1
-23;http://23satoshi.com;Solve Media;FALSE;TRUE;TRUE;1
-15;http://btc.jecool.net;reCAPTCHA;FALSE;FALSE;TRUE;1
-10;http://satoshi.jecool.net;reCAPTCHA;FALSE;FALSE;TRUE;1
-10;http://btcgiveaway.wink.ws;Solve Media;FALSE;FALSE;TRUE;1
-0;http://60sek.com;reCAPTCHA;FALSE;TRUE;TRUE;1
-100;http://thebitcoinsheep.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-100;http://smallfaucet.pw;Solve Media;TRUE;FALSE;TRUE;0
-100;http://shinobifaucet.com;Solve Media;TRUE;FALSE;TRUE;0
-100;http://earnmining.com;Solve Media;TRUE;FALSE;TRUE;0
-100;http://pocketcoin.us;Are You a Human;TRUE;FALSE;TRUE;0
-100;http://crococoin.com;Are You a Human;TRUE;FALSE;TRUE;0
-100;http://freebtc.in.ua;Solve Media;TRUE;FALSE;TRUE;0
-100;http://buxnama.com;Are You a Human;TRUE;FALSE;TRUE;0
-100;http://doublebitcoins.com;Are You a Human;TRUE;FALSE;TRUE;0
-100;http://c1d1.com;Solve Media;TRUE;FALSE;TRUE;0
-75;http://get-bitcoins.ml;Solve Media;TRUE;FALSE;TRUE;0
-64;http://reallibertymedia.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-50;http://77bitcoin.com;Are You a Human;TRUE;FALSE;TRUE;0
-50;http://superbtcfaucet.com;Solve Media;TRUE;FALSE;TRUE;0
-50;http://crocodile.honor.es;Solve Media;TRUE;FALSE;TRUE;0
-50;http://kingbit.co.in;reCAPTCHA;TRUE;FALSE;TRUE;0
-50;http://elgaby.tk;Solve Media;TRUE;FALSE;TRUE;0
-30;http://ptr2015.servegame.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-30;http://gratisbitco.in;reCAPTCHA;TRUE;FALSE;TRUE;0
-25;http://faucet.bosshippie.com;Solve Media;TRUE;FALSE;TRUE;0
-25;http://gs-bitcoin.ga;Solve Media;TRUE;FALSE;TRUE;0
-25;http://faucet.panzetti.com.br;reCAPTCHA;TRUE;FALSE;TRUE;0
-25;http://bitcoinfrax.com;Solve Media;TRUE;FALSE;TRUE;0
-25;http://chptrbit.us;reCAPTCHA;TRUE;FALSE;TRUE;0
-20;http://bitcoinsurfer.bitcoinula.com;Solve Media;TRUE;FALSE;TRUE;0
-20;http://bitcoinx.website;Solve Media;TRUE;FALSE;TRUE;0
-10;http://coinfaucet.ga;Solve Media;TRUE;FALSE;TRUE;0
-10;http://bitcoinearn.org;Solve Media;TRUE;FALSE;TRUE;0
-10;http://easybitcoins.tk;Solve Media;TRUE;FALSE;TRUE;0
-10;http://hybryda2005.pl;reCAPTCHA;TRUE;FALSE;TRUE;0
-10;http://zarabianie-w-sieci.biz.pl;reCAPTCHA;TRUE;FALSE;TRUE;0
-10;http://coincheckin.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-10;http://mistertrufa.net;Solve Media;TRUE;FALSE;TRUE;0
-5;http://paidautosurf.net;Solve Media;TRUE;FALSE;TRUE;0
-1;http://bitcoin.villa-community.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://getfreebitcoins.ru;none;TRUE;FALSE;TRUE;0
-0;http://bitcoins4you.pw;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://xfaucet.cf;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://canhasbitcoin.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://freebitcoins.me;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://elbitcoingratis.es;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://bitcats.net;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://dailybitcoins.org;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://freecoins.me;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://btc-fiat.com;none;TRUE;FALSE;TRUE;0
-0;http://owlclix.com;Solve Media;TRUE;FALSE;TRUE;0
-0;http://dustbinhead.com;Solve Media;TRUE;FALSE;TRUE;0
-0;http://freebtc4all.com;none;TRUE;FALSE;TRUE;0
-0;http://freebitcoins4u.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://bitcoins4free.me;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://thefreebitcoins.net;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://greencoins.org;Solve Media;TRUE;FALSE;TRUE;0
-0;http://btcmine.net;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://nioctib.net;Solve Media;TRUE;FALSE;TRUE;0
-0;http://virtualfaucet.com;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://rawbitcoins.com;none;TRUE;FALSE;TRUE;0
-0;http://route66traffic.com;Solve Media;TRUE;FALSE;TRUE;0
-0;http://virtualfaucet.net;reCAPTCHA;TRUE;FALSE;TRUE;0
-0;http://pingas.net;Solve Media;TRUE;FALSE;TRUE;0
-0;http://alittlebitcoin.2ie.co;reCAPTCHA;TRUE;FALSE;TRUE;0
-500;http://coindigger.co;Solve Media;TRUE;n;http://coindigger.co/?r=bda2d70f07;50
-710;http://freebitco.in;reCAPTCHA;TRUE;n;n;
-640;http://777bitco.in;Solve Media;TRUE;n;n;
-500;http://bitcoinx.co.in;none;TRUE;n;n;
-450;http://btc45.net;Solve Media;TRUE;n;n;
-300;http://bitcats.club;Are You a Human;TRUE;n;n;
-275;http://kingbit.co.in;reCAPTCHA;TRUE;n;n;
-250;http://gobisnis.org;reCAPTCHA;TRUE;n;n;
-229;http://faucet.9bitz.eu;Solve Media;TRUE;n;n;
-200;http://treebitcoin.com;Are You a Human;TRUE;n;n;
-200;http://getfree-bitcoin.com;Are You a Human;TRUE;n;n;
-200;http://instantbit.co.in;Solve Media;TRUE;n;n;
-154;http://cryptocombo.com;reCAPTCHA;TRUE;n;n;
-150;http://goldsday.com;Solve Media;TRUE;n;n;
-150;http://kingbit.co.in;reCAPTCHA;TRUE;n;n;
-150;http://cryptoplanet.co;Solve Media;TRUE;n;n;
-130;http://free-bitcoin-faucet.tk;reCAPTCHA;TRUE;;;
-100;http://bitonplay.com;none;TRUE;n;n;
-100;http://bitcoinaliens.com;Solve Media;TRUE;n;n;
-100;http://visitor4.me;reCAPTCHA;TRUE;;;
-100;http://sharkbitco.in;Solve Media;TRUE;n;y;
-100;http://bitcostars.com;Are You a Human;TRUE;;;
-100;http://freecoins4.me;reClamper;TRUE;;;
-100;http://breakingfaucet.com;Solve Media;TRUE;;;
-66;http://coincollecting.ws;Solve Media;TRUE;n;http://coincollecting.ws/free-bitcoin/?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;
-50;http://satoshi.chuta.org;reCAPTCHA;TRUE;n;y;
-33;http://starsbit.com;Solve Media;TRUE;;;
-0;http://weekendbitcoin.com;Solve Media;TRUE;n;n;
-0;http://btcgiveaway.tk;Solve Media;TRUE;n;n;
-0;http://coinfree.pl;reCAPTCHA;TRUE;n;n;
-0;http://chronofaucet.com;reCAPTCHA;TRUE;n;n;
-0;http://ccfaucet.com;reCAPTCHA;TRUE;n;n;
-0;http://btcfct.tk;reCAPTCHA;TRUE;n;n;
-0;http://kami-ike.net;reCAPTCHA;TRUE;n;n;
-0;http://topfaucet.cu.cc;Solve Media;TRUE;n;n;
-0;http://999dice.com;none;TRUE;n;n;
-0;http://moonbit.co.in;Solve Media;TRUE;;;
+link;captcha;reg;actualink;reflink;timer
+http://100satoshi.net;Solve Media;FALSE;FALSE;TRUE;1440
+http://bitcoin-free.ru;reCAPTCHA;FALSE;FALSE;TRUE;1440
+http://btc.01g.info;reCAPTCHA;FALSE;FALSE;TRUE;1440
+http://btc.justfaucet.net;Solve Media;FALSE;FALSE;TRUE;1440
+http://btcrumor.com/faucet/;Solve Media;FALSE;FALSE;TRUE;1440
+http://coin-tap.biz;Solve Media;FALSE;FALSE;TRUE;1440
+http://faucet.omnibot2k.com;reCAPTCHA;FALSE;FALSE;TRUE;1440
+http://freebitcoin.su;Solve Media;FALSE;FALSE;TRUE;1440
+http://getbitcoins.dixo.net;Solve Media;FALSE;FALSE;FALSE;1440
+http://bit-co.in.ua;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://bit.bissnes.net;Solve Media;FALSE;TRUE;TRUE;1440
+http://bitcoinbee.net;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://bitcoiner.website/;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://biteacoin.ml;Solve Media;FALSE;TRUE;TRUE;1440
+http://btc.in.ua;Solve Media;FALSE;TRUE;TRUE;1440
+http://btcgiveaway.yzi.me;Solve Media;FALSE;TRUE;TRUE;1440
+http://btctap.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://businessideas.nl/bitcoin-faucet/;Solve Media;FALSE;TRUE;TRUE;1440
+http://coin.01g.info;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://coin.bissnes.net;Solve Media;FALSE;TRUE;TRUE;1440
+http://faucet.chuta.org;reCAPTCHA;FALSE;TRUE;TRUE;1440
+http://freebitcoins.nx.tc;Solve Media;FALSE;TRUE;TRUE;1440
+http://gif-it.com;Solve Media;FALSE;TRUE;TRUE;1440
+http://bitcoinfreebees.me;Solve Media;FALSE;TRUE;TRUE;1380
+http://galaxy.lefaucet.com;Solve Media;FALSE;TRUE;TRUE;1380
+http://satoshis4.us;Solve Media;FALSE;TRUE;TRUE;1380
+http://zoneco.in;Solve Media;FALSE;TRUE;TRUE;1320
+http://littledogsbtc.byethost13.com;Are You a Human;FALSE;FALSE;TRUE;1220
+http://btcfine.16mb.com;Are You a Human;FALSE;FALSE;TRUE;960
+http://bitcoin.faucet.fr;reCAPTCHA;FALSE;FALSE;TRUE;720
+http://allbtc.bissnes.org;reCAPTCHA;FALSE;TRUE;TRUE;720
+http://bitcoin.tuzik-hole.ru;Solve Media;FALSE;TRUE;TRUE;720
+http://btctap.bissnes.org;Solve Media;FALSE;TRUE;TRUE;720
+http://hotbitcoins.com;Solve Media;FALSE;TRUE;TRUE;720
+http://lol.lefaucet.com;Solve Media;FALSE;TRUE;TRUE;720
+http://btcgratis.com;Solve Media;FALSE;FALSE;TRUE;600
+http://jazfaucetlist.com;Solve Media;FALSE;FALSE;TRUE;600
+http://faucet.emoneyroute.com;reCAPTCHA;FALSE;TRUE;TRUE;600
+http://mundocrypto.com.ve/faucet/index.php/;Solve Media;FALSE;TRUE;TRUE;600
+http://blog.btcgermany.eu/faucet/;reCAPTCHA;FALSE;FALSE;TRUE;540
+http://coincompound.com;reCAPTCHA;FALSE;TRUE;TRUE;480
+http://sfreebtc.byethost17.com;Solve Media;FALSE;TRUE;TRUE;480
+http://bitcoingator.com;Solve Media;FALSE;FALSE;TRUE;360
+http://minmov.sk;Solve Media;FALSE;FALSE;TRUE;360
+http://10xbifco.in;reCAPTCHA;FALSE;TRUE;TRUE;360
+http://bestbitcoinfaucet.net;Solve Media;FALSE;TRUE;TRUE;360
+http://bexxpal.com;Solve Media;FALSE;TRUE;TRUE;360
+http://bitcoin.01g.info;Solve Media;FALSE;TRUE;TRUE;360
+http://bitcoinfaucet.club;Solve Media;FALSE;TRUE;TRUE;360
+http://coin.bissnes.org;Solve Media;FALSE;TRUE;TRUE;360
+http://dextopzone.com/faucet/;Solve Media;FALSE;TRUE;TRUE;360
+http://faucetbox.bitcoinr.cz;reCAPTCHA;FALSE;TRUE;TRUE;360
+http://freesatoshi.website;reCAPTCHA;FALSE;TRUE;TRUE;360
+http://kharz.byethost7.com;reCAPTCHA;FALSE;TRUE;TRUE;360
+http://freebtc-faucet.com;reCAPTCHA;FALSE;TRUE;TRUE;320
+http://freakfaucet.com;Solve Media;FALSE;FALSE;TRUE;300
+http://claimfreebitcoins.com;Solve Media;FALSE;TRUE;TRUE;300
+http://faucet.phuk-it.com;reCAPTCHA;FALSE;FALSE;TRUE;240
+http://titaniumbtc.com;Solve Media;FALSE;FALSE;TRUE;240
+http://bitcoinhunters.net;Solve Media;FALSE;TRUE;TRUE;240
+http://cointreats.com;Solve Media;FALSE;TRUE;TRUE;240
+http://superfaucet.com;Solve Media;FALSE;TRUE;TRUE;240
+http://btcmountain.com;Solve Media;FALSE;TRUE;TRUE;210
+http://bestbtcfaucet.com;Solve Media;TRUE;FALSE;?ref=113104;180
+http://bitcoinfaucet.tk;reCAPTCHA;TRUE;FALSE;FALSE;180
+http://coinprizes.com;Solve Media;TRUE;FALSE;TRUE;180
+http://pizzafaucet.com;Solve Media;TRUE;FALSE;TRUE;180
+http://spektrumfaucet.mine.nu;reCAPTCHA;FALSE;FALSE;TRUE;180
+http://bit-coin-free.com;Solve Media;TRUE;TRUE;TRUE;180
+http://bitcoincex.com;Solve Media;TRUE;TRUE;TRUE;180
+http://bitcoingate.biz;Solve Media;FALSE;TRUE;TRUE;180
+http://bitfreefaucet.tk;Solve Media;TRUE;TRUE;TRUE;180
+http://btcearn.ml;reCAPTCHA;FALSE;TRUE;TRUE;180
+http://cryptocoinsfaucets.tk;Solve Media;TRUE;TRUE;TRUE;180
+http://fast.free-btc.info;reCAPTCHA;TRUE;TRUE;TRUE;180
+http://faucet.bitcoinminerz.com;Solve Media;FALSE;TRUE;TRUE;180
+http://littlecoiner.com;reCAPTCHA;TRUE;TRUE;TRUE;180
+http://mmoclub.com/faucet/;Solve Media;FALSE;TRUE;TRUE;180
+http://myfreebitcoins.org;Solve Media;TRUE;TRUE;TRUE;180
+http://quickbitcash.bit-coin-free.com;Solve Media;TRUE;TRUE;TRUE;180
+http://yourclicks.info;none;TRUE;TRUE;TRUE;180
+http://btc.rena-faucet.com;none;TRUE;FALSE;?id=42991;120
+http://crypto-bitcoin-faucet.tk;reCAPTCHA;TRUE;FALSE;TRUE;120
+http://dustbit.co.in;reCAPTCHA;TRUE;FALSE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;120
+http://eblackmilk.pl;Solve Media;TRUE;FALSE;TRUE;120
+http://getbitco.com;Solve Media;TRUE;FALSE;TRUE;120
+http://getfreebitcoins.eu;reCAPTCHA;TRUE;FALSE;TRUE;120
+http://happyfaucet.org;Solve Media;TRUE;FALSE;TRUE;120
+http://therunningfaucet.com;Solve Media;TRUE;FALSE;?ref=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV;120
+http://warhammer-coin.com;Solve Media;TRUE;FALSE;TRUE;120
+http://webservice.ga/fauset/;Solve Media;TRUE;FALSE;TRUE;120
+http://bitcoinshowers.com;Solve Media;TRUE;TRUE;TRUE;120
+http://crypto.miikman.com/fauset;Solve Media;TRUE;TRUE;TRUE;120
+http://freebtcfaucet.com;Solve Media;TRUE;TRUE;TRUE;120
+http://lefaucet.com;Solve Media;TRUE;TRUE;TRUE;120
+http://rabbitcoin.biz;Solve Media;TRUE;TRUE;TRUE;120
+http://satoshiga.ga;reCAPTCHA;TRUE;TRUE;TRUE;120
+http://satoshis.gratis;Solve Media;TRUE;TRUE;TRUE;120
+http://free-btc.info;reCAPTCHA;TRUE;TRUE;TRUE;100
+http://moonbitcoin.esy.es;reClamper;TRUE;TRUE;TRUE;99
+http://criptof.ru;reClamper;TRUE;n;y;90
+http://freebtc.bissnes.net;reCAPTCHA;TRUE;TRUE;TRUE;90
+http://pulpfaucet.com;Solve Media;TRUE;n;y;60
+http://1000satoshi.com;Solve Media;FALSE;FALSE;TRUE;60
+http://100bitcoin.com;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://123.bitcoinaplenty.com;reCAPTCHA;FALSE;FALSE;FALSE;60
+http://777.candyfaucet.com;reCAPTCHA;TRUE;FALSE;TRUE;60
+http://arbiame.com;Solve Media;FALSE;FALSE;TRUE;60
+http://bassfaucet.com;Solve Media;FALSE;FALSE;?ref=12666;60
+http://bit.ksoro.com;Solve Media;FALSE;FALSE;TRUE;60
+http://bitcoin-ace.ir;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://bitcoin.neon.org;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://bitcoinfaucet.rocks;Solve Media;TRUE;FALSE;TRUE;60
+http://bitcoinflow.me;Solve Media;TRUE;FALSE;TRUE;60
+http://bitcoinker.com;Solve Media;FALSE;FALSE;?ref=58acdd63985c;60
+http://bitcoins4.me;Solve Media;FALSE;FALSE;FALSE;60
+http://bitcoinstarters.com;reClamper;FALSE;FALSE;TRUE;60
+http://bitfaucet4.us;Solve Media;FALSE;FALSE;TRUE;60
+http://bitmachine.org/mach1/;reCAPTCHA;FALSE;FALSE;?id=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
+http://bittyfaucet.byethost4.com;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://bongbitcoin.com/bongfaucet/;reCAPTCHA;TRUE;FALSE;TRUE;60
+http://botva.net;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://btc.rkharz.in;Solve Media;FALSE;FALSE;TRUE;60
+http://btc2.rena-faucet.com;Solve Media;FALSE;FALSE;?id=42991;60
+http://btcforyou.info/fauset.php;Solve Media;FALSE;FALSE;TRUE;60
+http://coinracket.com;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://dailycoins.net/faucet/;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://dailyfreebits.com/faucet;reCAPTCHA;FALSE;FALSE;?id=5390291;60
+http://dancefaucet.com;Solve Media;FALSE;FALSE;TRUE;60
+http://datafaucet.info;reCAPTCHA;FALSE;FALSE;?id=1101052;60
+http://deasfanara.grn.cc;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://doors.galat.org;Solve Media;TRUE;FALSE;TRUE;60
+http://faucet.bitcoinzebra.com;Solve Media;FALSE;FALSE;?ref=9ea380c70f9d;60
+http://faucet.bodylaw.ru;Solve Media;FALSE;FALSE;TRUE;60
+http://faucet.galat.org;Solve Media;FALSE;FALSE;TRUE;60
+http://faucetofamerica.com;Are You a Human;FALSE;FALSE;TRUE;60
+http://flyingfaucet.com;Solve Media;FALSE;FALSE;TRUE;60
+http://free-bitcoin-faucet.foreverco.in;Are You a Human;FALSE;FALSE;TRUE;60
+http://icebitco.in;Are You a Human;FALSE;FALSE;TRUE;60
+http://jackpotfaucet.com;ConCAPTCHA;FALSE;FALSE;?affid=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
+http://justfreebtc.com;Solve Media;FALSE;FALSE;TRUE;60
+http://kav8.com;Solve Media;TRUE;FALSE;TRUE;60
+http://leagueofbitcoin.tk;Solve Media;FALSE;FALSE;TRUE;60
+http://letsgoo.de;Solve Media;FALSE;FALSE;TRUE;60
+http://lotofbits.com;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://mobipayer.ru;Are You a Human;FALSE;FALSE;TRUE;60
+http://next.hebergratuit.net;Are You a Human;FALSE;FALSE;TRUE;60
+http://omux2.ru;Solve Media;FALSE;FALSE;TRUE;60
+http://ourbtcsite.com;reClamper;FALSE;FALSE;TRUE;60
+http://qoinbox.tk;Solve Media;FALSE;FALSE;TRUE;60
+http://realfaucet.is-best.net;Solve Media;FALSE;FALSE;TRUE;60
+http://redcoinsco.aws.af.cm;Solve Media;FALSE;FALSE;TRUE;60
+http://robcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://rtube.de;reCAPTCHA;FALSE;FALSE;TRUE;60
+http://scratch4satoshis.com;Solve Media;FALSE;FALSE;TRUE;60
+http://simplfaucet.com;Are You a Human;FALSE;FALSE;?ref=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg;60
+http://topptc-sites.tk/faucet/index.php/;none;FALSE;FALSE;TRUE;60
+http://treasurefaucet.com;Solve Media;FALSE;FALSE;FALSE;60
+http://777btc.cf;Solve Media;FALSE;TRUE;TRUE;60
+http://big-coin.eu;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
+http://bit4surf.com;Solve Media;TRUE;TRUE;TRUE;60
+http://bitcoin.guysdomain.com;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoin.imgxd.com;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoindroplet.com;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoinfaucet.makebucks.today;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://bitcoinfaucet.reallibertymedia.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://bitcoinforyou.tk;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoingenie.info;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoinra.in;Solve Media;FALSE;TRUE;TRUE;60
+http://bitcoins.kurai.nl;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://bitcoinsatoshi.tk;Solve Media;FALSE;TRUE;TRUE;60
+http://bitfaucet.eu;Solve Media;FALSE;TRUE;TRUE;60
+http://bitkran.ru;Solve Media;FALSE;TRUE;TRUE;60
+http://bitwinfaucet.tk;Solve Media;FALSE;TRUE;TRUE;60
+http://btcbro.com;reCAPTCHA;TRUE;TRUE;TRUE;60
+http://btcfaucet.in;reCAPTCHA;TRUE;TRUE;TRUE;60
+http://btcfaucetlist.net;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
+http://btcgiveaway.com;Solve Media;FALSE;TRUE;TRUE;60
+http://captchaco.in;Solve Media;TRUE;TRUE;TRUE;60
+http://captchas.rocks;Solve Media;FALSE;TRUE;TRUE;60
+http://caribit.co.in;Solve Media;TRUE;TRUE;TRUE;60
+http://claimbit.co.in/;Solve Media;FALSE;TRUE;TRUE;60
+http://coin-machine.eu;reCAPTCHA;FALSE;TRUE;?r=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg&u=blpreh@gmail.com;60
+http://coinfaucet.biz;Solve Media;FALSE;TRUE;TRUE;60
+http://cracklaw.ru;Solve Media;FALSE;TRUE;TRUE;60
+http://cravebit.com;Solve Media;FALSE;TRUE;TRUE;60
+http://fairyfaucet.com;Solve Media;FALSE;TRUE;TRUE;60
+http://faucet.csingenieros.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://faucet.ovh;Solve Media;TRUE;TRUE;TRUE;60
+http://faucet.playbitcoingame.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://free-bitcoin-faucet.com;Solve Media;FALSE;TRUE;TRUE;60
+http://free-bitcoiner.ru;Are You a Human;TRUE;TRUE;TRUE;60
+http://freebetco.in;Solve Media;FALSE;TRUE;TRUE;60
+http://freebitfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://futurefaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://gameoutlet.biz;Solve Media;FALSE;TRUE;TRUE;60
+http://garudabitcoin.t15.org;Solve Media;FALSE;TRUE;TRUE;60
+http://gibitcoins.me;Solve Media;FALSE;TRUE;TRUE;60
+http://gofreebitcoin.com;Solve Media;FALSE;TRUE;FALSE;60
+http://happyputin.com;Solve Media;FALSE;TRUE;TRUE;60
+http://hotbitco.in;Solve Media;FALSE;TRUE;TRUE;60
+http://hotswap.co;Solve Media;FALSE;TRUE;TRUE;60
+http://hourlybitcoins.com;Solve Media;TRUE;TRUE;TRUE;60
+http://laguna.btcinfame.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://luckybitfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://luckycoin.me;Solve Media;FALSE;TRUE;TRUE;60
+http://luckyfaucet.cf;Solve Media;FALSE;TRUE;TRUE;60
+http://microfaucet.cryptal.net;Solve Media;FALSE;TRUE;TRUE;60
+http://moneyinpjs.com/BTCfaucet/;Solve Media;FALSE;TRUE;TRUE;60
+http://moneyinpjs.com/faucet/;Solve Media;FALSE;TRUE;TRUE;60
+http://mybtchour.com;Solve Media;FALSE;TRUE;TRUE;60
+http://nyancoins.260mb.net/microfaucet/;Solve Media;FALSE;TRUE;TRUE;60
+http://offerstep.com;Solve Media;FALSE;TRUE;TRUE;60
+http://omux.ru;Solve Media;FALSE;TRUE;/ref_2914;60
+http://ourbtchour.com;Solve Media;FALSE;TRUE;TRUE;60
+http://qoinmicro.tk/lag/;Solve Media;FALSE;TRUE;TRUE;60
+http://satoshibear.com;Solve Media;FALSE;TRUE;TRUE;60
+http://scoopyfaucet.webs.pm;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://sunbitco.in;reCAPTCHA;TRUE;TRUE;TRUE;60
+http://videoripper.de;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://welovebtc.com;Are You a Human;FALSE;TRUE;TRUE;60
+http://workrunet.info;Solve Media;FALSE;TRUE;TRUE;60
+http://yourfaucet.allalla.com;reCAPTCHA;TRUE;TRUE;TRUE;60
+http://123.bitcoinaplenty.com;reCAPTCHA;FALSE;TRUE;TRUE;60
+http://bitwinfaucet.com/;Solve Media;FALSE;TRUE;TRUE;60
+http://btcfaucet.website/;Solve Media;FALSE;TRUE;TRUE;60
+http://moneyinpjs.com/bitcoin-tree/;Solve Media;FALSE;TRUE;TRUE;60
+http://orangefaucet.com/;Solve Media;FALSE;TRUE;TRUE;60
+http://darcoins.com;Solve Media;FALSE;TRUE;TRUE;55
+http://superbitco.in;Are You a Human;FALSE;TRUE;?r=3695;55
+http://coindigger.co;Solve Media;TRUE;n;?r=bda2d70f07;50
+http://btc-faucet.com;Are You a Human;FALSE;FALSE;TRUE;45
+http://faucet.cryptbond.com;Solve Media;FALSE;FALSE;TRUE;45
+http://winfreebitco.in/16739;reCAPTCHA;FALSE;FALSE;FALSE;45
+http://adbiss.net/btcfaucet.php;Solve Media;TRUE;TRUE;TRUE;45
+http://free50satoshi.com;Solve Media;FALSE;TRUE;TRUE;45
+http://btcfaucet.co;Are You a Human;FALSE;FALSE;TRUE;33
+http://mariofaucet.com;Solve Media;TRUE;n;y;30
+http://500satoshi.ru;Solve Media;FALSE;FALSE;TRUE;30
+http://bitblogshare.com;Solve Media;FALSE;FALSE;TRUE;30
+http://bitcoinok.net;reCAPTCHA;FALSE;FALSE;?id=200856;30
+http://bitcoinparty.me;Solve Media;FALSE;FALSE;TRUE;30
+http://bitcoinspain.net;Solve Media;FALSE;FALSE;TRUE;30
+http://bitkendari.wilips.com;Are You a Human;FALSE;FALSE;TRUE;30
+http://btc.btcae.net;Are You a Human;TRUE;FALSE;TRUE;30
+http://btc4you.com;reCAPTCHA;FALSE;FALSE;TRUE;30
+http://buxnama.com/faucet/;Are You a Human;TRUE;FALSE;TRUE;30
+http://coin.bitdesire.com;reCAPTCHA;FALSE;FALSE;?id=246928;30
+http://connectbitco.in;reCAPTCHA;FALSE;FALSE;?id=203;30
+http://cryptoblox.com/faucets/BitCoin/;reCAPTCHA;FALSE;FALSE;?id=182748;30
+http://cryptodrips.com;Solve Media;FALSE;FALSE;TRUE;30
+http://faucetbtc.com;reCAPTCHA;FALSE;FALSE;TRUE;30
+http://fr33bitcoins.com;none;FALSE;FALSE;TRUE;30
+http://getfree.co.in;reCAPTCHA;FALSE;FALSE;?id=309941;30
+http://jexpotz.com;reCAPTCHA;FALSE;FALSE;TRUE;30
+http://kami-ike.net/view/home/;reCAPTCHA;FALSE;FALSE;FALSE;30
+http://microbtc.ml;reCAPTCHA;FALSE;FALSE;TRUE;30
+http://neobitcoin.com;Solve Media;FALSE;FALSE;?id=174800;30
+http://payfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
+http://smartbitcoin.cf;reCAPTCHA;FALSE;FALSE;TRUE;30
+http://srbitcoin.com;Solve Media;FALSE;FALSE;TRUE;30
+http://thebitcoin.me;Solve Media;FALSE;FALSE;TRUE;30
+http://thecoinmine.com;Solve Media;TRUE;FALSE;TRUE;30
+http://worldfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
+http://zknfaucet.com;Solve Media;FALSE;FALSE;TRUE;30
+http://aqoinfaucet.tk;Solve Media;FALSE;TRUE;TRUE;30
+http://beam-it-up.de;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://bearbitco.in;Solve Media;FALSE;TRUE;TRUE;30
+http://beefaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://ben10faucet.com;Solve Media;FALSE;TRUE;TRUE;30
+http://bitcoincia.com;Solve Media;FALSE;TRUE;TRUE;30
+http://bitcoinsoldado.com;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://bitprepay.net;Solve Media;FALSE;TRUE;TRUE;30
+http://btc-australian.com;Solve Media;FALSE;TRUE;TRUE;30
+http://btc-for-free.tk;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://coin.giftdraw.com;Solve Media;FALSE;TRUE;TRUE;30
+http://coingalaxy.tk;Solve Media;FALSE;TRUE;TRUE;30
+http://earnabitco.in;Solve Media;FALSE;TRUE;TRUE;30
+http://faucet.bitcoinsjunkie.org;Solve Media;FALSE;TRUE;TRUE;30
+http://finup.info;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://forcrypto.com;Solve Media;FALSE;TRUE;TRUE;30
+http://freebitcoins.eu/breakout/;Solve Media;FALSE;TRUE;TRUE;30
+http://getbitcoin.biz;Solve Media;FALSE;TRUE;TRUE;30
+http://jewelrybitco.in;Are You a Human;FALSE;TRUE;TRUE;30
+http://mexxbase.mezzacoins.net;Solve Media;FALSE;TRUE;TRUE;30
+http://mezzabank.com;Solve Media;FALSE;TRUE;TRUE;30
+http://morebitco.doublebitcoins.com;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://nix.buysellcoin.net;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://pinktussy.co;Solve Media;FALSE;TRUE;TRUE;30
+http://profaucet.net;Captch me;FALSE;TRUE;TRUE;30
+http://qoinfaucet.com;Are You a Human;FALSE;TRUE;TRUE;30
+http://smallbitcoin.doublebitcoins.com;Solve Media;FALSE;TRUE;TRUE;30
+http://the-never-ending-story.com;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://bitbitco.in/;reCAPTCHA;FALSE;TRUE;TRUE;30
+http://visitor4.me/faucet/;reCAPTCHA;TRUE;;;30
+http://btc.altcoin.pw;Solve Media;FALSE;TRUE;TRUE;25
+http://23satoshi.com/;Solve Media;FALSE;TRUE;TRUE;23
+http://bitcobox.doublebitcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;20
+http://bitcoinjackpot.co;Are You a Human;FALSE;FALSE;FALSE;20
+http://topbitco.in;Solve Media;FALSE;FALSE;?id=4829;20
+http://cityofbitcoin.com;reCAPTCHA;TRUE;TRUE;TRUE;20
+http://clixincome.com;Solve Media;FALSE;TRUE;TRUE;20
+http://timemoney.bissnes.net;reCAPTCHA;FALSE;TRUE;TRUE;20
+http://77bitcoins.com;reCAPTCHA;FALSE;FALSE;TRUE;17
+http://50or500.com;Solve Media;FALSE;FALSE;TRUE;15
+http://bitcoin-a.pl;Solve Media;FALSE;FALSE;TRUE;15
+http://bitganancias.com;Solve Media;FALSE;FALSE;TRUE;15
+http://car-faucet.netne.net;Are You a Human;FALSE;FALSE;TRUE;15
+http://freebitcoins247.com;Solve Media;FALSE;FALSE;TRUE;15
+http://myfaucet.likesyou.org;Solve Media;FALSE;FALSE;TRUE;15
+http://rainofcoins.tk;Solve Media;FALSE;FALSE;TRUE;15
+http://ussr-faucet.com;Solve Media;FALSE;FALSE;TRUE;15
+http://bit.finup.info;reCAPTCHA;FALSE;TRUE;TRUE;15
+http://bitcoin.giftdraw.com;Solve Media;FALSE;TRUE;TRUE;15
+http://bitcoinreward.comxa.com;Solve Media;FALSE;TRUE;TRUE;15
+http://blue-faucet.ogsi.it;Solve Media;FALSE;TRUE;TRUE;15
+http://btcbank.ml;Solve Media;FALSE;TRUE;TRUE;15
+http://btfree.ru;reCAPTCHA;FALSE;TRUE;TRUE;15
+http://chesimangia.it/microfaucet;Solve Media;FALSE;TRUE;TRUE;15
+http://faucet.bitcoinclub.eu/faucetbox/;Solve Media;FALSE;TRUE;TRUE;15
+http://faucet.clixbitco.in;Solve Media;FALSE;TRUE;TRUE;15
+http://freebit.wc.lt;Solve Media;FALSE;TRUE;TRUE;15
+http://freebitco.info/faucet/;Solve Media;FALSE;TRUE;TRUE;15
+http://freebitcoin.pk;Solve Media;FALSE;TRUE;TRUE;15
+http://freefaucet.cf;Solve Media;FALSE;TRUE;TRUE;15
+http://green-deal.nu;Solve Media;FALSE;TRUE;TRUE;15
+http://greenbitco.in;reCAPTCHA;FALSE;TRUE;TRUE;15
+http://orange-faucet.ogsi.it;Solve Media;FALSE;TRUE;TRUE;15
+http://satoshiprize.com;Solve Media;FALSE;TRUE;TRUE;15
+http://yourcontact.co;reCAPTCHA;FALSE;TRUE;TRUE;15
+http://4seasonsfaucet.com/?page=ourfaucet;Solve Media;FALSE;FALSE;TRUE;10
+http://biofaucet.com;reCAPTCHA;FALSE;FALSE;TRUE;10
+http://bitcofree.com;reCAPTCHA;FALSE;FALSE;?id=2068116;10
+http://pppfaucet.com/bitcoin/;reCAPTCHA;FALSE;FALSE;TRUE;10
+http://100freebit.com;Solve Media;FALSE;TRUE;TRUE;10
+http://biflaucet.com/;reCAPTCHA;FALSE;TRUE;TRUE;10
+http://biofaucet.com/;reCAPTCHA;FALSE;TRUE;TRUE;10
+http://cmmonitor.com/btc/;Are You a Human;FALSE;TRUE;TRUE;10
+http://redfaucet.pw/;reCAPTCHA;FALSE;TRUE;TRUE;7
+http://bitfaucet.1gh.in;Solve Media;FALSE;FALSE;TRUE;5
+http://klikcoin.16mb.com;reCAPTCHA;FALSE;FALSE;TRUE;5
+http://scoremybits.com;Solve Media;FALSE;FALSE;TRUE;5
+http://bitcoinfast.org;Solve Media;FALSE;TRUE;TRUE;5
+http://bitcointrux.com/;Solve Media;FALSE;TRUE;TRUE;5
+http://knfaucet.com/;Are You a Human;FALSE;TRUE;TRUE;5
+http://megafaucet.ga/;Are You a Human;FALSE;TRUE;TRUE;5
+http://mybitcoinfree.com/;Solve Media;FALSE;TRUE;TRUE;5
+http://bitcoinxd.com;reCAPTCHA;FALSE;FALSE;?id=265054;2
+http://sexyfaucet.com;reCAPTCHA;FALSE;TRUE;TRUE;2
+http://bitfaucet4.us;Solve Media;FALSE;FALSE;?r=366390;1
+http://btc.jecool.net;reCAPTCHA;FALSE;FALSE;TRUE;1
+http://btcgiveaway.wink.ws;Solve Media;FALSE;FALSE;TRUE;1
+http://faucet.jecool.net;Are You a Human;FALSE;FALSE;TRUE;1
+http://satoshi.jecool.net;reCAPTCHA;FALSE;FALSE;TRUE;1
+http://60sek.com;reCAPTCHA;FALSE;TRUE;TRUE;1
+http://faucet.btc22.gq;reCAPTCHA;FALSE;TRUE;TRUE;1
+http://77bitcoin.com;Are You a Human;TRUE;FALSE;TRUE;0
+http://alittlebitcoin.2ie.co;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://bitcats.net;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://bitcoin.villa-community.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://bitcoinearn.org;Solve Media;TRUE;FALSE;TRUE;0
+http://bitcoinfrax.com;Solve Media;TRUE;FALSE;TRUE;0
+http://bitcoins4free.me;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://bitcoins4you.pw;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://bitcoinsurfer.bitcoinula.com;Solve Media;TRUE;FALSE;TRUE;0
+http://bitcoinx.website;Solve Media;TRUE;FALSE;TRUE;0
+http://btc-fiat.com;none;TRUE;FALSE;TRUE;0
+http://btcmine.net;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://c1d1.com;Solve Media;TRUE;FALSE;TRUE;0
+http://canhasbitcoin.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://chptrbit.us;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://coincheckin.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://coinfaucet.ga;Solve Media;TRUE;FALSE;TRUE;0
+http://crococoin.com;Are You a Human;TRUE;FALSE;TRUE;0
+http://crocodile.honor.es;Solve Media;TRUE;FALSE;TRUE;0
+http://dailybitcoins.org;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://doublebitcoins.com;Are You a Human;TRUE;FALSE;TRUE;0
+http://dustbinhead.com;Solve Media;TRUE;FALSE;TRUE;0
+http://earnmining.com;Solve Media;TRUE;FALSE;TRUE;0
+http://easybitcoins.tk;Solve Media;TRUE;FALSE;TRUE;0
+http://elbitcoingratis.es;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://elgaby.tk;Solve Media;TRUE;FALSE;TRUE;0
+http://faucet.bosshippie.com;Solve Media;TRUE;FALSE;TRUE;0
+http://faucet.panzetti.com.br;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://freebitcoins.me;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://freebitcoins4u.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://freebtc.in.ua;Solve Media;TRUE;FALSE;TRUE;0
+http://freebtc4all.com;none;TRUE;FALSE;TRUE;0
+http://freecoins.me;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://get-bitcoins.ml;Solve Media;TRUE;FALSE;TRUE;0
+http://getfreebitcoins.ru;none;TRUE;FALSE;TRUE;0
+http://gratisbitco.in;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://greencoins.org;Solve Media;TRUE;FALSE;TRUE;0
+http://gs-bitcoin.ga;Solve Media;TRUE;FALSE;TRUE;0
+http://hybryda2005.pl;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://mistertrufa.net;Solve Media;TRUE;FALSE;TRUE;0
+http://nioctib.net;Solve Media;TRUE;FALSE;TRUE;0
+http://owlclix.com;Solve Media;TRUE;FALSE;TRUE;0
+http://paidautosurf.net;Solve Media;TRUE;FALSE;TRUE;0
+http://pingas.net;Solve Media;TRUE;FALSE;TRUE;0
+http://pocketcoin.us;Are You a Human;TRUE;FALSE;TRUE;0
+http://ptr2015.servegame.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://rawbitcoins.com;none;TRUE;FALSE;TRUE;0
+http://reallibertymedia.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://route66traffic.com;Solve Media;TRUE;FALSE;TRUE;0
+http://shinobifaucet.com;Solve Media;TRUE;FALSE;TRUE;0
+http://smallfaucet.pw;Solve Media;TRUE;FALSE;TRUE;0
+http://superbtcfaucet.com;Solve Media;TRUE;FALSE;TRUE;0
+http://thebitcoinsheep.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://thefreebitcoins.net;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://virtualfaucet.com;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://virtualfaucet.net;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://xfaucet.cf;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://zarabianie-w-sieci.biz.pl;reCAPTCHA;TRUE;FALSE;TRUE;0
+http://777bitco.in;Solve Media;TRUE;n;n;
+http://999dice.com;none;TRUE;n;n;
+http://bitcats.club;Are You a Human;TRUE;n;n;
+http://bitcoinaliens.com;Solve Media;TRUE;n;n;
+http://bitcoinx.co.in;none;TRUE;n;n;
+http://bitonplay.com;none;TRUE;n;n;
+http://btc45.net;Solve Media;TRUE;n;n;
+http://btcfct.tk;reCAPTCHA;TRUE;n;n;
+http://btcgiveaway.tk;Solve Media;TRUE;n;n;
+http://ccfaucet.com;reCAPTCHA;TRUE;n;n;
+http://chronofaucet.com;reCAPTCHA;TRUE;n;n;
+http://coincollecting.ws;Solve Media;TRUE;n;TRUE;
+http://coinfree.pl;reCAPTCHA;TRUE;n;n;
+http://cryptocombo.com;reCAPTCHA;TRUE;n;n;
+http://cryptoplanet.co;Solve Media;TRUE;n;n;
+http://faucet.9bitz.eu;Solve Media;TRUE;n;n;
+http://freebitco.in;reCAPTCHA;TRUE;n;n;
+http://getfree-bitcoin.com;Are You a Human;TRUE;n;n;
+http://gobisnis.org;reCAPTCHA;TRUE;n;n;
+http://goldsday.com;Solve Media;TRUE;n;n;
+http://instantbit.co.in;Solve Media;TRUE;n;n;
+http://kami-ike.net;reCAPTCHA;TRUE;n;n;
+http://kingbit.co.in;reCAPTCHA;TRUE;n;n;
+http://satoshi.chuta.org;reCAPTCHA;TRUE;n;y;
+http://sharkbitco.in;Solve Media;TRUE;n;y;
+http://topfaucet.cu.cc;Solve Media;TRUE;n;n;
+http://treebitcoin.com;Are You a Human;TRUE;n;n;
+http://weekendbitcoin.com;Solve Media;TRUE;n;n;
+http://bitcostars.com;Are You a Human;TRUE;;;
+http://breakingfaucet.com;Solve Media;TRUE;;;
+http://free-bitcoin-faucet.tk;reCAPTCHA;TRUE;;;
+http://freecoins4.me;reClamper;TRUE;;;
+http://moonbit.co.in;Solve Media;TRUE;;;
+http://starsbit.com;Solve Media;TRUE;;;

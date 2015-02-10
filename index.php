@@ -15,7 +15,7 @@
 		$fcsv = fopen($flist, "r");
 
 		while(($fdata = fgetcsv($fcsv,4096,";")) !== false){
-			list($average[],$link[],$captcha[],$reg[],$actuallink[],$reflink[],$timer[]) = $fdata;
+			list($link[],$captcha[],$reg[],$actuallink[],$reflink[],$timer[]) = $fdata;
 		}
 		fclose($fcsv);
 		?>
@@ -161,9 +161,15 @@
 						<li class="active withripple" data-target="#pohuy">Half hour</li>
 						<li class="withripple" data-target="#huy">One hour and more</li>
 						<li style="cursor: default;"></br></li>
+						<li class="withripple"><a href="http://btc-flow.com/index" terget="_blank">BTC flow</a></li>
+						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
 						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
 						<li class="withripple"><a href="https://app.xapo.com/#wallet" target="_blank"><p>XAPO wallet check</p></a></li>
+						<li style="cursor: default;"></br></li>						
+						<li class="withripple"><a href="https://faucetbox.com/en/check/1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank"><p>FausetBox Check (ref)</p></a></li>
+						<li class="withripple"><a href="https://www.microwallet.org/?u=1Hvx14vzLMmMiTHCjj3fKECXicvuMqpddg" target="_blank"><p>Microwallet Check (ref)</p></a></li>
+						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="http://quickbitco.in/faucet/game" target="_blank"><p>Quick Bitcoin(XAPO)</p></a></li>
 						<li class="withripple"><a href="http://moonbit.co.in" target="_blank"><p>Moon Bitcoin(XAPO)</p></a></li>
 						<li style="cursor: default;"></br></li>
@@ -267,11 +273,9 @@
 						<div class="well page" id="testing">
 							<h1 class="header">Testing features</h1>
 							<div style="background-color: #fff3e0; padding: 2px;">
-								<div style="border: 1px solid #fff;">
-									<div>
-										<p>SiteName<hr>Captcha</p>
-										<p>Timer</p>
-									</div>
+								<div class="btn" style="border: 1px solid #fff;">
+									<div style="float: left; border: 1px solid #000; margin: -5px 3px -5px -28px;"><div>SiteName</div><div>Captcha</div></div>
+									<div style="float: right; border: 1px solid #000; line-height: 40px; margin: -2px -25px -2px 3px;">Timer</div>
 								</div>
 							</div>
 						</div>
