@@ -161,7 +161,7 @@
 						<li class="active withripple" data-target="#pohuy">Half hour</li>
 						<li class="withripple" data-target="#huy">One hour and more</li>
 						<li style="cursor: default;"></br></li>
-						<li class="withripple"><a href="http://btc-flow.com/index" terget="_blank">BTC flow</a></li>
+						<li class="withripple"><a href="http://btc-flow.com/index" target="_blank">BTC flow</a></li>
 						<li style="cursor: default;"></br></li>
 						<li class="withripple"><a href="https://faucetbox.com/en/check/1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>FausetBox Check</p></a></li>
 						<li class="withripple"><a href="https://www.microwallet.org/?u=1NhYLugeKxDVEbXzEjNozbe9ieBDsrN7WV" target="_blank"><p>Microwallet Check</p></a></li>
